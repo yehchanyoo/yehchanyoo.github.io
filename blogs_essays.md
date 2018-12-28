@@ -5,7 +5,7 @@ title: Blogs/Essays
 
 # Blogs/Essays
 
-[![](fivethirtyeight_2016_presidential.jpg)](/susa_research_article_github.html)
+[![](fivethirtyeight_2016_presidential.JPG)](/susa_research_article_github.html)
 
 ##[Meaning of Probabilities in Social Sciences](/susa_research_article_github.html)
 
