@@ -8,6 +8,6 @@ nav_order: 2
 
 [![](fivethirtyeight_2016_presidential.JPG)](/susa_research_article_github.html)
 
-##[Meaning of Probabilities in Social Sciences](/susa_research_article_github.html)
+## [Meaning of Probabilities in Social Sciences](/susa_research_article_github.html)
 
 ### What do the probabilities you see in polling, models,...really mean?
