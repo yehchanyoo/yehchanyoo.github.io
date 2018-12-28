@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Blogs/Essays
+nav_order: 2
 ---
 
 # Blogs/Essays
