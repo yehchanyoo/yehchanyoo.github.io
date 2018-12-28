@@ -2,6 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 title: Yehchan Yoo
 description: A place for all my cool stuff
+markdown: redcarpet
 aux_links:
   "My LinkedIn Profile":
     - "//www.linkedin.com/in/yehchan-yoo-2a9726146/"
