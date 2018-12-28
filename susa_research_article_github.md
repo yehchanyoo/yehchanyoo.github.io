@@ -1,6 +1,7 @@
 ---
 title: "Meaning of Probabilities in Social Sciences"
 author: "Yehchan Yoo"
+nav_exclude: true
 ---
 
 
