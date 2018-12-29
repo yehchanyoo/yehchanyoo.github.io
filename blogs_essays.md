@@ -6,8 +6,12 @@ nav_order: 2
 
 # Blogs/Essays
 
-[![](fivethirtyeight_2016_presidential.JPG)](/susa_research_article_github.html)
+***
 
-## [Meaning of Probabilities in Social Sciences](/susa_research_article_github.html)
+Last updated on October 28, 2018
 
-### What do the probabilities you see in polling, models,...really mean?
+## [Meaning of Probabilities in Social Sciences](/susa_research_yy_fall_2018.html)
+
+As a declared Statistics major interested in social sciences, I have been finding that probability is used a lot in social science research. But I often wonder: *what do these probabilities fundamentally mean?*
+
+***
