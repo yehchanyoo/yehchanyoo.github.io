@@ -8,7 +8,7 @@ nav_order: 2
 
 ***
 
-Last updated on October 28, 2018
+Last updated on December 31, 2018
 
 ## [Meaning of Probabilities in Social Sciences](/susa_research_yy_fall_2018.html)
 
