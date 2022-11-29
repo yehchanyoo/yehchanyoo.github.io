@@ -4,7 +4,9 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome to my official website!
+# Welcome to my portfolio website!
+
+![A picture of me at UC Berkeley](/1547204353970.jfif)
 
 My name is Yeh Chan Yoo, and I am an undergraduate student at the University of California, Berkeley! I am both a resident and a citizen of South Korea. I am a declared Statistics and Political Economy major and also am minoring in Data Science! I am set to be graduating on December 2023.
 
