@@ -14,11 +14,36 @@ This website was built to host some of the research work I made during my time i
 
 ***
 
+Last updated on December 16, 2022
+
+## [Replication and Improvement on "How do 401(k)s Affect Saving? Evidence from Change in 401(k) Eligibility"](group04_YY_XZ.pdf)
+
+This paper was written in collaboration with my classmate [Xinyi Zi](https://www.linkedin.com/in/xinyi-zi/) as the final project paper for STAT 156: Causal Inference, taught by [Professor Peng Ding](https://statistics.berkeley.edu/people/peng-ding) for the Fall 2022 semester. This paper attempts to explore, replicate, critique, and re-do [Professor Alexander M. Gelber](https://gps.ucsd.edu/faculty-directory/alexander-gelber.html)'s 2011 causal inference paper ["How Do 401(k)s Affect Saving? Evidence from Changes in 401(k) Eligibility"](https://www.aeaweb.org/articles?id=10.1257/pol.3.4.103).
+
+***
+
+Last updated on December 9, 2022
+
+## [Effects of International Monetary Fund's Financial Crisis Policy Program in the Republic of Korea](pe101_term_paper.pdf)
+
+This paper was written as my term paper for POLECON 101: Contemporary Theories of Political Economy, taught by [Mr. Khalid Kadir](https://blumcenter.berkeley.edu/academics/gppminor/faculty/kadir/) for the Fall 2022 semester. Using some of the complex political economy theories taught in this course, this paper explores the political economy perspective of how the International Monetary Fund's program in response to South Korea's financial crisis in the late 1990s affected the South Korean society in the short, medium, and long run.
+
+***
+
 Last updated on November 13, 2022
 
 ## [Transit and Housing in California](https://deepnote.com/@berkeley-datathon-fall-2022-project/Presentation-3aa74663-1377-4af5-9f38-92009ab3c36b) 
 
 This article was made within 3 days for the Fall 2022 UC Berkeley Datathon and won second place in Urban Studies track. For this article, my Datathon team (consisting of [Gain Boonavich](https://www.linkedin.com/in/gainsira/), Anita Ding, [Yixin Huang](https://www.linkedin.com/in/yixin-huang-91b7781aa/), and myself) used Python to perform linear regression and create data visualizations in order to dive into the relationship between the amount of investment in transit and the number of housing units in Californian counties.
+
+***
+
+May 4, 2020 - Feburary 3, 2022
+
+![Republic of Korea Air Force Flag](rokaf_flag.svg)
+<img src="rokaf_flag.svg">
+
+Served in Republic of Korea Air Force as translator sergeant
 
 ***
 
