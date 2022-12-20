@@ -34,16 +34,15 @@ Last updated on November 13, 2022
 
 ## [Transit and Housing in California](https://deepnote.com/@berkeley-datathon-fall-2022-project/Presentation-3aa74663-1377-4af5-9f38-92009ab3c36b) 
 
-This article was made within 3 days for the Fall 2022 UC Berkeley Datathon and won second place in Urban Studies track. For this article, my Datathon team (consisting of [Gain Boonavich](https://www.linkedin.com/in/gainsira/), Anita Ding, [Yixin Huang](https://www.linkedin.com/in/yixin-huang-91b7781aa/), and myself) used Python to perform linear regression and create data visualizations in order to dive into the relationship between the amount of investment in transit and the number of housing units in Californian counties.
+This article was made within 3 days for the Fall 2022 UC Berkeley Datathon and won second place in Urban Studies track. For this article, my Datathon team (consisting of [Gain Boonavich](https://www.linkedin.com/in/gainsira/), [Anita Ding](https://www.linkedin.com/in/anita-ding-530238225/), [Yixin Huang](https://www.linkedin.com/in/yixin-huang-91b7781aa/), and myself) used Python to perform linear regression and create data visualizations in order to dive into the relationship between the amount of investment in transit and the number of housing units in Californian counties.
 
 ***
 
-May 4, 2020 - Feburary 3, 2022
+From May 4, 2020 to Feburary 3, 2022
 
-![Republic of Korea Air Force Flag](rokaf_flag.svg)
 <img src="rokaf_flag.svg">
 
-Served in Republic of Korea Air Force as translator sergeant
+I served in Republic of Korea Air Force as a translator sergeant from 2020 to 2022 -- translating various government, legal, mechanical, and logistics documents (from Korean to English and from English to Korean) to facilitate smooth communication on logistical issues between Republic of Korea Air Force and various foreign arms manufacturers.
 
 ***
 
