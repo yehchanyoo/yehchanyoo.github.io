@@ -6,11 +6,19 @@ nav_order: 1
 
 # Welcome to my portfolio website!
 
-My name is Yeh Chan Yoo, and I am an undergraduate student at the University of California, Berkeley! I am both a resident and a citizen of South Korea. I am a declared Statistics and Political Economy major and also am minoring in Data Science! I am set to be graduating on December 2023.
+My name is Yeh Chan Yoo, and I am an undergraduate student at the University of California, Berkeley, studying Statistics and Political Economy + minoring in Data Science! I am set to be graduating on December 2023.
 
 This website was built to host some of the research work I made during my time in the last several years; I sincerely hope that you do enjoy reading and interacting with my work!
 
 (The work I have below are arranged by date of creation from most recent to least recent.)
+
+***
+
+Last updated on May 12, 2023
+
+## [Inference and Prediction on Crude Diabetes Prevalence in U.S. States Based on Vegetable Consumption](DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf)
+
+This paper was written in collaboration with my classmates Christina Đặng, [Conan Minihan](https://www.linkedin.com/in/conanminihan/), and [Tetsuro Escudero](https://www.linkedin.com/in/tetsuro-escudero-542a93219/) as the final project report for DATA 102: Data, Inference, and Decisions, taught by [Mr. Ramesh Sridharan](https://www.rameshvs.com/) and [Professor Eaman Jahani](https://eamanjahani.com/) for the Spring 2023 semester.  This paper attempts to use inferential and predictive techniques to both look at the relationship between vegetable consumption and crude diabetes prevalence in American states and predict diabetes prevalence based on vegetable consumption.
 
 ***
 
