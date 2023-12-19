@@ -1,7 +1,11 @@
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 title: Yeh Chan Yoo
-description: A place for all my cool stuff
+description: Yeh Chan Yoo's professional portfolio website
 aux_links:
-  "My LinkedIn Profile":
+  "LinkedIn Profile":
     - "https://www.linkedin.com/in/yehchan-yoo/"
+  "Resume":
+    - "Yeh Chan Yoo's Resume for Portfolio Website.docx.pdf"
+  "CV":
+    - "Yeh Chan Yoo's Curriculum Vitae.pdf"
