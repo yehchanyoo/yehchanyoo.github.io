@@ -8,7 +8,7 @@ nav_order: 1
 
 <img src="yehchan_yoo_profile_pic.jpeg">
 
-My name is Yeh Chan Yoo; I am a recent graduate from the University of California, Berkeley, having studied Statistics and Political Economy + minored in Data Science as an undergraduate! I graduated on December 25.
+My name is Yeh Chan (Yehchan) Yoo; I am a recent graduate from the University of California, Berkeley, having studied Statistics and Political Economy + minored in Data Science as an undergraduate! I graduated on December 2023.
 
 This website was built to host some of the research work I have done in the last several years; I sincerely hope you enjoy reading and interacting with my work!
 
