@@ -4,13 +4,24 @@ title: Home
 nav_order: 1
 ---
 
-# Welcome to my portfolio website!
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+# About Me
+
+## Welcome to My Portfolio Website!
 
 <img src="yehchan_yoo_profile_pic.jpeg">
 
-My name is Yeh Chan (Yehchan) Yoo; I am a recent graduate from the University of California, Berkeley, having studied Statistics and Political Economy + minored in Data Science as an undergraduate! I graduated on December 2023.
+My name is Yeh Chan (Yehchan) Yoo; I recently graduated from the University of California, Berkeley, having studied Statistics and Political Economy + minored in Data Science as an undergraduate! I graduated in December 2023.
 
-This website was built to host some of the research work I have done in the last several years; I sincerely hope you enjoy reading and interacting with my work!
+This website was built to host some of my research work in the last several years; I sincerely hope you enjoy reading and interacting with my work!
 
 (The work I have below is arranged by creation date from most recent to least recent.)
 
@@ -20,7 +31,7 @@ Last updated on May 12, 2023
 
 ## [Inference and Prediction on Crude Diabetes Prevalence in U.S. States Based on Vegetable Consumption](DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf)
 
-This paper was written in collaboration with my classmates [Christina Đặng](https://www.linkedin.com/in/christina-%C4%91%E1%BA%B7ng/), [Conan Minihan](https://www.linkedin.com/in/conanminihan/), and [Tetsuro Escudero](https://www.linkedin.com/in/tetsuro-escudero-542a93219/) as the final project report for DATA 102: Data, Inference, and Decisions, taught by [Mr. Ramesh Sridharan](https://www.rameshvs.com/) and [Professor Eaman Jahani](https://eamanjahani.com/) for the Spring 2023 semester.  This paper attempts to use inferential and predictive techniques to look at the relationship between vegetable consumption and crude diabetes prevalence in American states and predict diabetes prevalence based on vegetable consumption.
+This paper was written in collaboration with my classmates [Christina Đặng](https://www.linkedin.com/in/christina-%C4%91%E1%BA%B7ng/), [Conan Minihan](https://www.linkedin.com/in/conanminihan/), and [Tetsuro Escudero](https://www.linkedin.com/in/tetsuro-escudero-542a93219/) as the final project report for DATA 102: Data, Inference, and Decisions, taught by [Mr. Ramesh Sridharan](https://www.rameshvs.com/) and [Professor Eaman Jahani](https://eamanjahani.com/) for the Spring 2023 semester.  This paper uses inferential and predictive techniques to examine the relationship between vegetable consumption and crude diabetes prevalence in American states and predict diabetes prevalence based on vegetable consumption.
 
 ***
 
