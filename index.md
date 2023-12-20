@@ -15,17 +15,17 @@ nav_order: 1
 
 # About Me
 
-## Welcome to My Portfolio Website!
+**Welcome to My Portfolio Website!**
 
 <img src="yehchan_yoo_profile_pic.jpeg">
 
-My name is Yeh Chan (Yehchan) Yoo; I recently graduated from the University of California, Berkeley, having studied Statistics and Political Economy + minored in Data Science as an undergraduate! I graduated in December 2023.
+My name is Yeh Chan (Yehchan) Yoo! I am a statistics/data scientist/data analyst who recently graduated from the University of California, Berkeley, in December 2023 -- having studied Statistics and Political Economy + minored in Data Science as an undergraduate!
 
-This website was built to host some of my research work in the last several years; I sincerely hope you enjoy reading and interacting with my work!
+This website was built to host some of the research work I did during the last few years; I sincerely hope you enjoy reading and interacting with my work!
 
 (The work I have below is arranged by creation date from most recent to least recent.)
 
-***
+# 2023
 
 Last updated on May 12, 2023
 
@@ -33,7 +33,7 @@ Last updated on May 12, 2023
 
 This paper was written in collaboration with my classmates [Christina Đặng](https://www.linkedin.com/in/christina-%C4%91%E1%BA%B7ng/), [Conan Minihan](https://www.linkedin.com/in/conanminihan/), and [Tetsuro Escudero](https://www.linkedin.com/in/tetsuro-escudero-542a93219/) as the final project report for DATA 102: Data, Inference, and Decisions, taught by [Mr. Ramesh Sridharan](https://www.rameshvs.com/) and [Professor Eaman Jahani](https://eamanjahani.com/) for the Spring 2023 semester.  This paper uses inferential and predictive techniques to examine the relationship between vegetable consumption and crude diabetes prevalence in American states and predict diabetes prevalence based on vegetable consumption.
 
-***
+# 2022
 
 Last updated on December 16, 2022
 
@@ -57,15 +57,15 @@ Last updated on November 13, 2022
 
 This article was made within 3 days for the Fall 2022 UC Berkeley Datathon for Social Good and won second place in the Urban Studies track. For this article, my Datathon team (consisting of [Gain Boonavich](https://www.linkedin.com/in/gainsira/), [Anita Ding](https://www.linkedin.com/in/anita-ding-530238225/), [Yixin Huang](https://www.linkedin.com/in/yixin-huang-91b7781aa/), and myself) used Python to perform linear regression and create data visualizations to dive into the relationship between the amount of investment in transit and the number of housing units in Californian counties.
 
-***
+# Gap Years Due to Military Service (2020-2022)
 
-From May 4, 2020, to Feburary 3, 2022
+From May 4, 2020, to February 3, 2022
 
 <img src="rokaf_flag.svg">
 
 I served in the Republic of Korea Air Force as a translator sergeant from 2020 to 2022 -- translating various government, legal, mechanical, and logistics documents (from Korean to English and from English to Korean) to facilitate smooth communication on logistical issues between the Republic of Korea Air Force and various foreign arms manufacturers.
 
-***
+# 2019
 
 Last updated on December 13, 2019
 
@@ -73,9 +73,11 @@ Last updated on December 13, 2019
 
 During the Fall 2019 semester, as a member of the Data Consulting committee in the Student Association for Applied Statistics (SAAS), I worked in a team to create our own JSON key-value pair classification systems using machine learning and natural language processing models with data provided by a startup named Trace Data (later acquired by [Netskope](https://www.netskope.com/)). More specifically, I worked with [Amal Bhatnagar](https://www.linkedin.com/in/amal-bhatnagar/) to create an unsupervised clustering algorithm using tf-idf as the main metric.
 
-***
+# 2018
 
-Last updated on December 31, 2018
+Last updated on December 20, 2023
+
+Originally written during the Fall 2018 semester
 
 ## [Meaning of Probabilities in Social Sciences](/susa_research_yy_fall_2018.html)
 
@@ -110,15 +112,3 @@ Last updated on April 11, 2018
 This presentation was created to teach members of Amnesty International at Berkeley about the philosophical meaning and questions behind the concept of human rights during my time in the organization.
 
 - The title links to the PowerPoint version of my presentation. For the pdf version, go [here](/philosophy_of_human_rights/philosophy_of_human_rights.pdf).
-
-***
-
-Last updated on June 10, 2016
-
-## [Focicle2020's Fun Proof-O-Pedia](https://www.geogebra.org/material/show/id/zYqyyRXD)
-
-In this GeoGebra book, I have gathered up the GeoGebra applets I made in my free time to help others understand the workings of certain mathematical concepts and -- most importantly -- to teach them to have fun with math! I hope that people will enjoy my GeoGebra applets!
-
-This collection of personally made interactive GeoGebra templates contains demonstrations for finding the area of a circle, proving the Pythagorean Theorem, proving the Power of a Point, etc.
-
-***
