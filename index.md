@@ -27,7 +27,7 @@ This website was built to host some of the research work I did during the last f
 
 # 2023
 
-## CR4CR Autograder Model Presentation
+## [CR4CR Autograder Model Presentation](https://docs.google.com/presentation/d/1cY8bM4Fmu5GAgqIl7sCEGaDwOxE3WX0cGo7f41rPLvo/edit?usp=sharing)
 
 *Last updated on October 9, 2023* ([Link](https://docs.google.com/presentation/d/1cY8bM4Fmu5GAgqIl7sCEGaDwOxE3WX0cGo7f41rPLvo/edit?usp=sharing))
 
@@ -35,7 +35,7 @@ In this presentation, I share the results of my research as a research assistant
 
 ***
 
-## CR4CR GeoGebra Interactive Proof Presentation
+## [CR4CR GeoGebra Interactive Proof Presentation](https://docs.google.com/presentation/d/1eTaJP4aAazmwSp7yQnxgQGPELbkvbYj9VuxPg8mUdSc/edit?usp=sharing)
 
 *Last updated on October 6, 2023* ([Link](https://docs.google.com/presentation/d/1eTaJP4aAazmwSp7yQnxgQGPELbkvbYj9VuxPg8mUdSc/edit?usp=sharing))
 
@@ -49,7 +49,7 @@ In this presentation for UC Berkeley's [BEAR Center](https://bearcenter.berkeley
 
 ***
 
-## Inference and Prediction on Crude Diabetes Prevalence in U.S. States Based on Vegetable Consumption
+## [Inference and Prediction on Crude Diabetes Prevalence in U.S. States Based on Vegetable Consumption](DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf)
 
 *Last updated on May 12, 2023* ([Link](DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf))
 
@@ -57,7 +57,7 @@ This paper was written in collaboration with my classmates [Christina Đặng](h
 
 # 2022
 
-## Replication and Improvement on "How do 401(k)s Affect Saving? Evidence from Change in 401(k) Eligibility"
+## [Replication and Improvement on "How do 401(k)s Affect Saving? Evidence from Change in 401(k) Eligibility"](group04_YY_XZ.pdf)
 
 *Last updated on December 16, 2022* ([Link](group04_YY_XZ.pdf))
 
@@ -69,7 +69,7 @@ This paper was written in collaboration with my classmate [Xinyi Zi](https://www
 
 ***
 
-## Effects of International Monetary Fund's Financial Crisis Policy Program in the Republic of Korea
+## [Effects of International Monetary Fund's Financial Crisis Policy Program in the Republic of Korea](pe101_term_paper.pdf)
 
 *Last updated on December 9, 2022* ([Link](pe101_term_paper.pdf))
 
@@ -77,7 +77,7 @@ This paper was written as my term paper for POLECON 101: Contemporary Theories o
 
 ***
 
-## Transit and Housing in California 
+## [Transit and Housing in California](https://deepnote.com/@berkeley-datathon-fall-2022-project/Presentation-3aa74663-1377-4af5-9f38-92009ab3c36b) 
 
 *Last updated on November 13, 2022* ([Link](https://deepnote.com/@berkeley-datathon-fall-2022-project/Presentation-3aa74663-1377-4af5-9f38-92009ab3c36b)) 
 
@@ -93,7 +93,7 @@ I served in the Republic of Korea Air Force as a translator sergeant from 2020 t
 
 # 2019
 
-## SAAS x Trace Data
+## [SAAS x Trace Data](https://docs.google.com/presentation/d/12Q5RciThBbhEOnpQ-6ASKT7Fe_ZnnH4NoDMHMqB73cE/edit?usp=sharing)
 
 *Last updated on December 13, 2019* ([Link](https://docs.google.com/presentation/d/12Q5RciThBbhEOnpQ-6ASKT7Fe_ZnnH4NoDMHMqB73cE/edit?usp=sharing))
 
@@ -101,9 +101,9 @@ During the Fall 2019 semester, as a member of the Data Consulting committee in t
 
 # 2018
 
-## Meaning of Probabilities in Social Sciences
+## [Meaning of Probabilities in Social Sciences](/susa_research_yy_fall_2018.html)
 
-*Last updated on December 20, 2023; originally written during the Fall 2018 semester* ([Link]((/susa_research_yy_fall_2018.html)))
+*Last updated on December 20, 2023; originally written during the Fall 2018 semester* ([Link](/susa_research_yy_fall_2018.html))
 
 As a declared Statistics major interested in social sciences, I often found that probability was used a lot in social science research. But I often wondered: *what do these probabilities fundamentally mean?* I wrote an article on the meaning of probabilities in social sciences to help answer this question during my time as a member of the Research and Publication Committee in Statistics Undergraduate Student Association (now called SAAS or Student Association for Applied Statistics).
 
@@ -111,7 +111,7 @@ As a declared Statistics major interested in social sciences, I often found that
 
 ***
 
-## Analyzing Undergraduate Statistics Majors’ Preparation in Communication with Non-Statisticians in the University of California, Berkeley
+## [Analyzing Undergraduate Statistics Majors’ Preparation in Communication with Non-Statisticians in the University of California, Berkeley](/statistics_communication_paper/Yoo_Yehchan_Spring2018_CompleteResearchPaper.pdf)
 
 *Last updated on May 9, 2018* ([Link](/statistics_communication_paper/Yoo_Yehchan_Spring2018_CompleteResearchPaper.pdf))
 
@@ -119,7 +119,7 @@ Assessing the preparation of undergraduate statistics majors in statistical writ
 
 ***
 
-## Is there a statistical relationship between a region’s legalization of euthanasia and that region’s suicide rate?
+## [Is there a statistical relationship between a region’s legalization of euthanasia and that region’s suicide rate?](https://saas.berkeley.edu/rp/suicide)
 
 *Last updated on May 1, 2018* ([Link](https://saas.berkeley.edu/rp/suicide))
 
@@ -127,7 +127,7 @@ Statistical analysis of data from Mexico indicates that the legalization of pass
 
 ***
 
-## Philosophy of Human Rights
+## [Philosophy of Human Rights](/philosophy_of_human_rights/philosophy_of_human_rights.pptx)
 
 *Last updated on April 11, 2018* ([Link](/philosophy_of_human_rights/philosophy_of_human_rights.pptx))
 
