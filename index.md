@@ -69,9 +69,9 @@ This paper was written in collaboration with my classmate [Xinyi Zi](https://www
 
 ***
 
-## Effects of International Monetary Fund's Financial Crisis Policy Program in the Republic of Korea]
+## Effects of International Monetary Fund's Financial Crisis Policy Program in the Republic of Korea
 
-*Last updated on December 9, 2022* ([Link]((pe101_term_paper.pdf)))
+*Last updated on December 9, 2022* ([Link](pe101_term_paper.pdf))
 
 This paper was written as my term paper for POLECON 101: Contemporary Theories of Political Economy, taught by [Mr. Khalid Kadir](https://blumcenter.berkeley.edu/academics/gppminor/faculty/kadir/) for the Fall 2022 semester. Using some of the complex political economy theories taught in this course, this paper explores the political economy perspective of how the International Monetary Fund's program in response to South Korea's financial crisis in the late 1990s affected South Korean society in the short, medium, and long run.
 
