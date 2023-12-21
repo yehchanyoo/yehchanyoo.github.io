@@ -27,6 +27,28 @@ This website was built to host some of the research work I did during the last f
 
 # 2023
 
+Last updated on October 9, 2023
+
+## [CR4CR Autograder Model Presentation](https://docs.google.com/presentation/d/1cY8bM4Fmu5GAgqIl7sCEGaDwOxE3WX0cGo7f41rPLvo/edit?usp=sharing)
+
+In this presentation, I share the results of my research as a research assistant with UC Berkeley's [BEAR Center](https://bearcenter.berkeley.edu/) on the CR4CR project. The goal of the project was to explore how RoBERTa -- a state-of-the-art large language model -- could be applied to automatically grade short answers - a task with significant implications for scaling educational assessment. Through data collection, model training, and rigorous evaluation of a test set, I was able to develop a grading system that achieved a test accuracy of 75% when assessing short answers. In this presentation, I discuss the methodology, results, and limitations of the research, to further our understanding of both the potential and challenges of leveraging powerful deep learning models like RoBERTa for educational applications.
+
+***
+
+Last updated on October 6, 2023
+
+## [CR4CR GeoGebra Interactive Proof Presentation](https://docs.google.com/presentation/d/1eTaJP4aAazmwSp7yQnxgQGPELbkvbYj9VuxPg8mUdSc/edit?usp=sharing)
+
+In this presentation for UC Berkeley's [BEAR Center](https://bearcenter.berkeley.edu/), I discuss my past work working with GeoGebra and the potential for the program to be used in developing interactive educational material. GeoGebra is a free educational software that allows for both the creation and sharing of dynamic visualization of geometry and algebra. I discuss what the development process is like for developing GeoGebra visualizations and share my tips for developing these visualizations effectively. I also share some of the applets I made on GeoGebra, which garnered over 15,000 views overall.
+
+- Yehchan’s GeoGebra webpage: [https://www.geogebra.org/u/focicle2020](https://www.geogebra.org/u/focicle2020)
+  - GeoGebra demos used in the presentation:
+    - [Rearrangement Proof of the Pythagorean Theorem](https://www.geogebra.org/m/r2csGxMa)
+    - [Power of a Point Proof Part 1: Between Two Chords](https://www.geogebra.org/m/PUbzFKSK)
+    - [Bertrand's Paradox](https://www.geogebra.org/m/knm5erhz)
+
+***
+
 Last updated on May 12, 2023
 
 ## [Inference and Prediction on Crude Diabetes Prevalence in U.S. States Based on Vegetable Consumption](DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf)
