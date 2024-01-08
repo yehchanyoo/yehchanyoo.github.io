@@ -27,9 +27,9 @@ This website was built to host some of the research work I did during the last f
 
 # 2023
 
-## [CR4CR Autograder Model Presentation](<CR4CR Autograder Model Presentation (Yehchan Yoo, October 9, copy).pdf>)
+## [CR4CR Autograder Model Presentation](https://docs.google.com/presentation/d/1loiDyL5mR43dCqcPDTUrSKDyb1Bcc8OAWEioZAG0kf4/edit?usp=sharing)
 
-*Presented on October 9, 2023* ([Link](https://docs.google.com/presentation/d/e/2PACX-1vRUyTTFeGryFIToKqsmzUkskrjXD7Hl6rS6IDCaQlt5E8hw9M3kifaZNqV7MBsY8JS1zR1Vc7h_0Xq8/pub?start=false&loop=false&delayms=3000), [PDF Link](<CR4CR Autograder Model Presentation (Yehchan Yoo, October 9, copy).pdf>))
+*Presented on October 9, 2023* ([Link](https://docs.google.com/presentation/d/1loiDyL5mR43dCqcPDTUrSKDyb1Bcc8OAWEioZAG0kf4/edit?usp=sharing), [PDF Link](<CR4CR Autograder Model Presentation (Yehchan Yoo, October 9, copy).pdf>))
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vRUyTTFeGryFIToKqsmzUkskrjXD7Hl6rS6IDCaQlt5E8hw9M3kifaZNqV7MBsY8JS1zR1Vc7h_0Xq8/embed?start=false&loop=false&delayms=3000' frameborder='0' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
 
