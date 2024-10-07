@@ -19,7 +19,7 @@ nav_order: 1
 
 <img src="yehchan_yoo_profile_pic.jpeg">
 
-My name is Yeh Chan (Yehchan) Yoo! I am an incoming student for the Master of Science program in Statistics - Advanced Methods and Data Analysis at the University of Washington this fall! I graduated from the University of California, Berkeley, in December 2023 -- having studied Statistics and Political Economy + minored in Data Science as an undergraduate. I also worked as the primary Data Scientist for [Mindful Conversion](https://mindfulconversion.com/) in 2024 before heading to the University of Washington for graduate school. 
+My name is Yeh Chan (Yehchan) Yoo! I am currently a student in the Master of Science program in Statistics - Advanced Methods and Data Analysis at the University of Washington -- expected to graduate in March 2026! I graduated from the University of California, Berkeley, in December 2023 -- having studied Statistics and Political Economy + minored in Data Science as an undergraduate. I also worked as the primary Data Scientist for [Mindful Conversion](https://mindfulconversion.com/) in 2024 before heading to the University of Washington for graduate school. 
 
 This website was built to host some of the research work I did during the last few years; I sincerely hope you enjoy reading and interacting with my work!
 
