@@ -115,7 +115,7 @@ I served in the Republic of Korea Air Force as a translator sergeant from 2020 t
 
 *Last updated on December 13, 2019* ([Link](https://docs.google.com/presentation/d/12Q5RciThBbhEOnpQ-6ASKT7Fe_ZnnH4NoDMHMqB73cE/edit?usp=sharing))
 
-<img src="Wordcloud from SAAS x  Trace Data.png">
+![Wordcloud from SAAS x Trace Data](https://github.com/user-attachments/assets/c6ba5dac-e7f2-48a7-b3d1-bb0c0fe54b70)
 
 During the Fall 2019 semester, as a member of the Data Consulting committee in the Student Association for Applied Statistics (SAAS), I worked in a team to create our own JSON key-value pair classification systems using machine learning and natural language processing models with data provided by a startup named Trace Data (later acquired by [Netskope](https://www.netskope.com/)). More specifically, I worked with [Amal Bhatnagar](https://www.linkedin.com/in/amal-bhatnagar/) to create an unsupervised clustering algorithm using tf-idf as the main metric.
 
@@ -157,7 +157,7 @@ Statistical analysis of data from Mexico indicates that the legalization of pass
 
 *Last updated on April 11, 2018* ([Link](/philosophy_of_human_rights/philosophy_of_human_rights.pptx))
 
-<img src="Amnesty International Logo.png">
+![Amnesty International logo](https://github.com/user-attachments/assets/6d259bb8-1ecf-4f52-9dda-3b29c56466c3)
 
 This presentation was created to teach members of Amnesty International at Berkeley about the philosophical meaning and questions behind the concept of human rights during my time in the organization.
 
