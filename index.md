@@ -58,6 +58,7 @@ In this presentation for UC Berkeley's [BEAR Center](https://bearcenter.berkeley
     - [Bertrand's Paradox](https://www.geogebra.org/m/knm5erhz)
 
       ![GeoGebra Bertrands Paradox screenshot](https://github.com/user-attachments/assets/988f7341-1103-4174-a154-fda81dfa26a5)
+
 ***
 
 ## [Inference and Prediction on Crude Diabetes Prevalence in U.S. States Based on Vegetable Consumption](DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf)
