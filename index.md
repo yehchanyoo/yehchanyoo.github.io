@@ -50,11 +50,88 @@ In this presentation for UC Berkeley's [BEAR Center](https://bearcenter.berkeley
 - Yehchan’s GeoGebra webpage: [https://www.geogebra.org/u/focicle2020](https://www.geogebra.org/u/focicle2020)
   - GeoGebra demos used in the presentation:
     - [Rearrangement Proof of the Pythagorean Theorem](https://www.geogebra.org/m/r2csGxMa)
-      <iframe scrolling="no" title="Rearrangement Proof of the Pythagorean Theorem" src="https://www.geogebra.org/material/iframe/id/r2csGxMa/width/918/height/682/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"> </iframe>
+      <style>
+.embed-container {
+    position: relative;
+    padding-bottom: 74.2%; /* Aspect ratio: 682 / 918 */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+.embed-container iframe, 
+.embed-container object, 
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<div class="embed-container">
+    <iframe 
+        scrolling="no" 
+        title="Rearrangement Proof of the Pythagorean Theorem" 
+        src="https://www.geogebra.org/material/iframe/id/r2csGxMa/width/918/height/682/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" 
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
+</div>
     - [Power of a Point Proof Part 1: Between Two Chords](https://www.geogebra.org/m/PUbzFKSK)
-      <iframe scrolling="no" title="Power of a Point Proof Part 1: Between Two Chords" src="https://www.geogebra.org/material/iframe/id/y3BZVCwJ/width/1000/height/700/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"> </iframe>
+      <style>
+.embed-container {
+    position: relative;
+    padding-bottom: 70%; /* Aspect ratio: 700 / 1000 = 0.7 */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+.embed-container iframe, 
+.embed-container object, 
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<div class="embed-container">
+    <iframe 
+        scrolling="no" 
+        title="Power of a Point Proof Part 1: Between Two Chords" 
+        src="https://www.geogebra.org/material/iframe/id/y3BZVCwJ/width/1000/height/700/border/
     - [Bertrand's Paradox](https://www.geogebra.org/m/knm5erhz)
-      <iframe scrolling="no" title="Bertrand's Paradox" src="https://www.geogebra.org/material/iframe/id/qgqf8p2r/width/828/height/882/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"> </iframe>
+      <style>
+.embed-container {
+    position: relative;
+    padding-bottom: 106.5%; /* Aspect ratio: 882 / 828 ≈ 1.065 */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+.embed-container iframe, 
+.embed-container object, 
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+
+<div class="embed-container">
+    <iframe 
+        scrolling="no" 
+        title="Bertrand's Paradox" 
+        src="https://www.geogebra.org/material/iframe/id/qgqf8p2r/width/828/height/882/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/false/ctl/false" 
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
+</div>
 ***
 
 ## [Inference and Prediction on Crude Diabetes Prevalence in U.S. States Based on Vegetable Consumption](DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf)
