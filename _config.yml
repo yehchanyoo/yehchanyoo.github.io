@@ -3,7 +3,13 @@ search_enabled: false
 title: Yeh Chan Yoo's Portfolio Site
 description: Yeh Chan Yoo's professional portfolio website
 aux_links:
-  "LinkedIn Profile":
+  "LinkedIn":
     - "https://www.linkedin.com/in/yehchan-yoo/"
   "Github":
     - "https://github.com/yehchanyoo"
+  "UDub Profile":
+    - "https://stat.uw.edu/about-us/people/yehchan-yoo"
+  "UCB Profile":
+    - "https://cal.berkeley.edu/yehchanyoo"
+  "Resume":
+    - "Yeh Chan Yoo's Resume for LinkedIn and Handshake (11_17_2024).docx.pdf"
