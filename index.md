@@ -29,9 +29,9 @@ This website was built to host some of the research work I did during the last f
 
 # 2023
 
-## [CR4CR Autograder Model Presentation](https://docs.google.com/presentation/d/1loiDyL5mR43dCqcPDTUrSKDyb1Bcc8OAWEioZAG0kf4/edit?usp=sharing)
+## [CR4CR Autograder Model Presentation](https://docs.google.com/presentation/d/16ASxBvUo6afS52CQQReqnSq4RH7ThPBqtJDuuHEZCwE/edit?usp=sharing)
 
-*Presented on October 9, 2023* ([Link](https://docs.google.com/presentation/d/1loiDyL5mR43dCqcPDTUrSKDyb1Bcc8OAWEioZAG0kf4/edit?usp=sharing), [PDF Link](<CR4CR Autograder Model Presentation (Yehchan Yoo, October 9, copy).pdf>))
+*Presented on October 9, 2023* ([Link](https://docs.google.com/presentation/d/16ASxBvUo6afS52CQQReqnSq4RH7ThPBqtJDuuHEZCwE/edit?usp=sharing), [PDF Link](<CR4CR Autograder Model Presentation (Yehchan Yoo, October 9, copy).pdf>))
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vQccxbmETAvqERuJJgqEJlBTFlKiXSQnPzanaNcz1AkRyLHu4FTeNIt947HWf9rlmBwlwuSIqHoS9iq/embed?start=false&loop=false&delayms=3000' frameborder='0' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
 
@@ -39,9 +39,9 @@ In this presentation, I share the results of my research as a research assistant
 
 ***
 
-## [CR4CR GeoGebra Interactive Proof Presentation](https://docs.google.com/presentation/d/1PT9wc6rtE8hpJaVX5QkChUrdgqUd43HWN1Kl2LpgMFo/edit?usp=sharing)
+## [CR4CR GeoGebra Interactive Proof Presentation](https://docs.google.com/presentation/d/1FaPVOUcs32gKcQhHg7CvDcx2DdeiTRnhAd6rpwH8K5Y/edit?usp=sharing)
 
-*Presented on October 6, 2023* ([Link](https://docs.google.com/presentation/d/1PT9wc6rtE8hpJaVX5QkChUrdgqUd43HWN1Kl2LpgMFo/edit?usp=sharing), [PDF Link](<CR4CR GeoGebra Interactive Proof Presentation.pdf>))
+*Presented on October 6, 2023* ([Link](https://docs.google.com/presentation/d/1FaPVOUcs32gKcQhHg7CvDcx2DdeiTRnhAd6rpwH8K5Y/edit?usp=sharing), [PDF Link](<CR4CR GeoGebra Interactive Proof Presentation.pdf>))
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vSXiN1D7ALnrnZaZDLu2ZYIvD5owRJvK8bq5nMIbpnGbABDzwOn4L9npJVdnowtb-qhAQe7jJ0IP3iO/embed?start=false&loop=false&delayms=3000' frameborder='0'  allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
 
@@ -67,7 +67,7 @@ In this presentation for UC Berkeley's [BEAR Center](https://bearcenter.berkeley
 
 <img src="DATA 102 Bayesian Beta Regression graph.png">
 
-This paper was written in collaboration with my classmates [Christina Đặng](https://www.linkedin.com/in/christina-%C4%91%E1%BA%B7ng/), [Conan Minihan](https://www.linkedin.com/in/conanminihan/), and [Tetsuro Escudero](https://www.linkedin.com/in/tetsuro-escudero-542a93219/) as the final project report for DATA 102: Data, Inference, and Decisions, taught by [Mr. Ramesh Sridharan](https://www.rameshvs.com/) and [Professor Eaman Jahani](https://eamanjahani.com/) for the Spring 2023 semester.  This paper uses inferential and predictive techniques to examine the relationship between vegetable consumption and crude diabetes prevalence in American states and predict diabetes prevalence based on vegetable consumption.
+This paper was written in collaboration with my classmates [Christina Đặng](https://www.linkedin.com/in/christinadang2026/), [Conan Minihan](https://www.linkedin.com/in/conanminihan/), and [Tetsuro Escudero](https://www.linkedin.com/in/tetsuro-escudero-542a93219/) as the final project report for DATA 102: Data, Inference, and Decisions, taught by [Mr. Ramesh Sridharan](https://www.linkedin.com/in/rameshsridharan/) and [Professor Eaman Jahani](https://eamanjahani.com/) for the Spring 2023 semester.  This paper uses inferential and predictive techniques to examine the relationship between vegetable consumption and crude diabetes prevalence in American states and predict diabetes prevalence based on vegetable consumption.
 
 # 2022
 
