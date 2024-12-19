@@ -50,14 +50,8 @@ In this presentation for UC Berkeley's [BEAR Center](https://bearcenter.berkeley
 - Yehchan’s GeoGebra webpage: [https://www.geogebra.org/u/focicle2020](https://www.geogebra.org/u/focicle2020)
   - GeoGebra demos used in the presentation:
     - [Rearrangement Proof of the Pythagorean Theorem](https://www.geogebra.org/m/r2csGxMa)
-
-      ![GeoGebra Pythagorean Theorem screenshot](https://github.com/user-attachments/assets/1b568a96-72b0-4902-b065-5e843c8937c6)
     - [Power of a Point Proof Part 1: Between Two Chords](https://www.geogebra.org/m/PUbzFKSK)
-
-      ![GeoGebra Power of a Point Part 1 Screenshot](https://github.com/user-attachments/assets/298b6c86-b641-4b3a-98ff-61d5a7cb0411)
     - [Bertrand's Paradox](https://www.geogebra.org/m/knm5erhz)
-
-      ![GeoGebra Bertrands Paradox screenshot](https://github.com/user-attachments/assets/988f7341-1103-4174-a154-fda81dfa26a5)
 
 ***
 
