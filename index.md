@@ -77,16 +77,6 @@ This paper was written in collaboration with my classmate [Xinyi Zi](https://www
 
 ***
 
-## [Effects of International Monetary Fund's Financial Crisis Policy Program in the Republic of Korea](pe101_term_paper.pdf)
-
-*Last updated on December 9, 2022* ([Link](pe101_term_paper.pdf))
-
-<img src="IMF HQ.png">
-
-This paper was written as my term paper for POLECON 101: Contemporary Theories of Political Economy, taught by [Mr. Khalid Kadir](https://blumcenter.berkeley.edu/academics/gppminor/faculty/kadir/) for the Fall 2022 semester. Using some of the complex political economy theories taught in this course, this paper explores the political economy perspective of how the International Monetary Fund's program in response to South Korea's financial crisis in the late 1990s affected South Korean society in the short, medium, and long run.
-
-***
-
 ## [Transit and Housing in California](https://deepnote.com/@berkeley-datathon-fall-2022-project/Presentation-3aa74663-1377-4af5-9f38-92009ab3c36b) 
 
 *Last updated on November 13, 2022* ([Link](https://deepnote.com/@berkeley-datathon-fall-2022-project/Presentation-3aa74663-1377-4af5-9f38-92009ab3c36b))
@@ -144,15 +134,3 @@ Assessing the preparation of undergraduate statistics majors in statistical writ
 <img src="yc3.png">
 
 Statistical analysis of data from Mexico indicates that the legalization of passive euthanasia in certain Mexican regions likely is unrelated to the Mexican regions’ raw suicide rates in the short run. Difference-in-difference analysis on data from the Netherlands (and Norway) indicates that, while major events towards the legalization of active and passive euthanasia may have had a decreasing short-run impact on the raw suicide rate of the Netherlands, such effect -- if present -- likely became diluted over time. This research article was written during my time as a member of the Research and Publication Committee in Statistics Undergraduate Student Association (now called SAAS or Student Association for Applied Statistics).
-
-***
-
-## [Philosophy of Human Rights](/philosophy_of_human_rights/philosophy_of_human_rights.pptx)
-
-*Last updated on April 11, 2018* ([Link](/philosophy_of_human_rights/philosophy_of_human_rights.pptx))
-
-![Amnesty International logo](https://github.com/user-attachments/assets/6d259bb8-1ecf-4f52-9dda-3b29c56466c3)
-
-This presentation was created to teach members of Amnesty International at Berkeley about the philosophical meaning and questions behind the concept of human rights during my time in the organization.
-
-- The title links to the PowerPoint version of my presentation. For the pdf version, go [here](/philosophy_of_human_rights/philosophy_of_human_rights.pdf).
