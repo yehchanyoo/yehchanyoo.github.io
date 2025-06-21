@@ -27,8 +27,8 @@ This paper was written as the final project paper for [STAT 529: Sample Survey T
 
 - This paper was also presented as a poster in the Spring CSSS Poster Session on June 9, 2025. The poster can be found embedded below or accessed through [this link](/attachments/2025/stat529_poster_final.pdf).
 
-<object data="/attachments/2025/stat529_poster_final.pdf" type="application/pdf" width="100%" height="70px">
-  <p>Unable to display PDF file. Download the file instead through the link above.</p>
+<object class="pdf-embed" data="/attachments/2025/stat529_poster_final.pdf" type="application/pdf" width="100%" height="70px">
+  <em>Unable to display PDF file. Download the file instead through the link above.</em>
 </object>
 
 ***
