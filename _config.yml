@@ -1,16 +1,60 @@
-remote_theme: pmarsceill/just-the-docs
-search_enabled: false
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-include-cache
+minimal_mistakes_skin: "default"
+markdown: kramdown
+theme: null
+
+# Enable TOC by default for posts/pages
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      toc: true
+      toc_sticky: true
+
 incremental: true
 title: Yeh Chan Yoo's Portfolio Site
 description: Yeh Chan Yoo's professional portfolio website
-aux_links:
-  "LinkedIn":
-    - "https://www.linkedin.com/in/yehchan-yoo/"
-  "Github":
-    - "https://github.com/yehchanyoo"
-  "UDub Profile":
-    - "https://stat.uw.edu/people/yehchan-yoo"
-  # "UCB Profile":
-  #   - "https://cal.berkeley.edu/yehchanyoo"
-  "Resume":
-    - "Yeh Chan Yoo's Resume for LinkedIn and Handshake (11_17_2024).docx.pdf"
+
+author:
+  name: "Yeh Chan Yoo"
+  avatar: "https://github.com/user-attachments/assets/2ae163f0-f805-4324-a4d2-fd3b8456804f"
+  location: "Seattle, WA"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yehchan-yoo/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yehchanyoo"
+    - label: "Grad School Profile"
+      icon: "fas fa-fw fa-university"
+      url: "https://stat.uw.edu/people/yehchan-yoo"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/Yeh Chan Yoo's Resume for LinkedIn and Handshake (11_17_2024).docx.pdf"
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yehchan-yoo/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yehchanyoo"
+    - label: "Grad School Profile"
+      icon: "fas fa-fw fa-university"
+      url: "https://stat.uw.edu/people/yehchan-yoo"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/Yeh Chan Yoo's Resume for LinkedIn and Handshake (11_17_2024).docx.pdf"
+
+atom_feed:
+  hide: true 

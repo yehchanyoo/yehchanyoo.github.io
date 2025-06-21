@@ -1,27 +1,15 @@
 ---
-layout: default
-title: Home
-nav_order: 1
+layout: single
+author_profile: true
+toc: true
+toc_sticky: true
 ---
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+Welcome to my portfolio website! :)
 
 # About Me
 
-**Welcome to My Portfolio Website!**
-
-<img src="yehchan_yoo_profile_pic.jpeg">
-
-![image](https://github.com/user-attachments/assets/2ae163f0-f805-4324-a4d2-fd3b8456804f)
-
-My name is Yeh Chan (Yehchan) Yoo! I am currently a student in [the Master of Science program in Statistics - Advanced Methods and Data Analysis at the University of Washington](https://stat.uw.edu/academics/graduate/programs/fulltimemasters) -- expected to graduate in March 2026! I graduated from the University of California, Berkeley, in December 2023 -- having studied Statistics and Political Economy + minored in Data Science as an undergraduate. I also worked as the primary Data Scientist for [Mindful Conversion](https://mindfulconversion.com/) in 2024 before heading to the University of Washington for graduate school. 
+Hello! My name is Yeh Chan (Yehchan) Yoo, and I am currently a student in [the Master of Science program in Statistics - Advanced Methods and Data Analysis at the University of Washington](https://stat.uw.edu/academics/graduate/programs/fulltimemasters) -- expected to graduate in March 2026! I graduated from the University of California, Berkeley, in December 2023 -- having studied Statistics and Political Economy + minored in Data Science as an undergraduate. I also worked as the primary Data Scientist for [Mindful Conversion](https://mindfulconversion.com/) in 2024 before heading to the University of Washington for graduate school. 
 
 This website was built to host some of the research work I did during the last few years; I sincerely hope you enjoy reading and interacting with my work!
 
