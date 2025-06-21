@@ -9,11 +9,22 @@ Welcome to my portfolio website! :)
 
 # About Me
 
-Hello! My name is Yeh Chan (Yehchan) Yoo, and I am currently a student in [the Master of Science program in Statistics - Advanced Methods and Data Analysis at the University of Washington](https://stat.uw.edu/academics/graduate/programs/fulltimemasters) -- expected to graduate in March 2026! I graduated from the University of California, Berkeley, in December 2023 -- having studied Statistics and Political Economy + minored in Data Science as an undergraduate. I also worked as the primary Data Scientist for [Mindful Conversion](https://mindfulconversion.com/) in 2024 before heading to the University of Washington for graduate school. 
+Hello! My name is Yeh Chan (Yehchan) Yoo, and I am currently a student in [the Master of Science program in Statistics - Advanced Methods and Data Analysis at the University of Washington](https://stat.uw.edu/academics/graduate/programs/fulltimemasters) -- expected to graduate in 2026! I graduated from the University of California, Berkeley, in December 2023 -- having studied Statistics and Political Economy + minored in Data Science as an undergraduate.
 
 This website was built to host some of the research work I did during the last few years; I sincerely hope you enjoy reading and interacting with my work!
 
 (The work I have below is arranged by creation date from most recent to least recent.)
+
+# Work at Mindful Conversion (2024)
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><img src="attachments/2024/mindful_conversion_logo.jpg"></td>
+    <td style="border: none;"><img src="attachments/2024/kixely_logo.jpg"></td>
+  </tr>
+</table>
+
+For much of 2024, I worked as the primary Data Scientist for [Mindful Conversion](https://mindfulconversion.com/) in 2024 before heading to the University of Washington for graduate school in autumn. During my time at Mindful Conversion, I led marketing analytics efforts, developed and optimized data pipelines for its predictive SEO product [Kixely](https://www.kixely.com/), conducted exploratory data analysis on large-scale marketing datasets, and authored influential data-driven reports and visualizations that shaped marketing strategies for clients.
 
 # 2023
 
@@ -33,7 +44,12 @@ In this presentation, I share the results of my research as a research assistant
 
 *Presented on October 6, 2023* ([Link](https://docs.google.com/presentation/d/1FaPVOUcs32gKcQhHg7CvDcx2DdeiTRnhAd6rpwH8K5Y/edit?usp=sharing), [PDF Link](</attachments/2023/CR4CR GeoGebra Interactive Proof Presentation.pdf>))
 
-| <img src="attachments/2023/geogebra_demo_1.gif"> | <img src="attachments/2023/geogebra_demo_2.gif"> |
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><img src="attachments/2023/geogebra_demo_1.gif"></td>
+    <td style="border: none;"><img src="attachments/2023/geogebra_demo_2.gif"></td>
+  </tr>
+</table>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vSXiN1D7ALnrnZaZDLu2ZYIvD5owRJvK8bq5nMIbpnGbABDzwOn4L9npJVdnowtb-qhAQe7jJ0IP3iO/embed?start=false&loop=false&delayms=3000' frameborder='0'  allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
 
