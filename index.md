@@ -15,6 +15,37 @@ This website was built to host some of the research work I did during the last f
 
 (The work I have below is arranged by creation date from most recent to least recent.)
 
+# 2025
+
+## [Evaluation of Imputation Methods Under Different Missing Data Conditions](/attachments/2025/stat529_final_project_yehchan_yoo.pdf)
+
+*Written and submitted on June 9, 2025* ([Link](/attachments/2025/stat529_final_project_yehchan_yoo.pdf))
+
+<img src="attachments/2025/stat529_combined_imputation_comparison.png">
+
+This paper was written as the final project paper for [STAT 529: Sample Survey Techniques](https://stat.uw.edu/academics/course-catalog/stat-529) by [Professor Robin Mejia](https://www.biostat.washington.edu/people/robin-mejia) during my time at University of Washington. This paper simulates how different imputation methods perform under three missing data conditions —- MCAR, MAR, and MNAR —- for two variables `RNTP` (rent price) and `VALP` (property value) in the 1-year 2023 ACS Public Use Microdata Sample for New York State. For each missing data condition, the study applies five imputation approaches: no imputation, mean, random, nearest neighbor, and regression. The study found that random imputation yields the best quartile estimates under MNAR, while mean and regression methods perform better for means but distort quantiles. Nearest neighbor is the least effective, being slow and highly biased.
+
+- This paper was also presented as a poster in the Spring CSSS Poster Session on June 9, 2025. The poster can be found embedded below or accessed through [this link](/attachments/2025/stat529_poster_final.pdf).
+
+<object data="/attachments/2025/stat529_poster_final.pdf" type="application/pdf" width="100%" height="70px">
+  <p>Unable to display PDF file. Download the file instead through the link above.</p>
+</object>
+
+***
+
+## [Replication of Rec-R1](/attachments/2025/CSE_493S_599S_Final_Project.pdf)
+
+*Written and submitted on June 6, 2025* ([Link](/attachments/2025/CSE_493S_599S_Final_Project.pdf), [Github Repo](https://github.com/yehchanyoo/Rec-R1_magic))
+
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><img src="attachments/2025/CSE_493S_C4_results.png"></td>
+    <td style="border: none;"><img src="attachments/2025/CSE_493S_Beauty_results.png"></td>
+  </tr>
+</table>
+
+This paper was written in collaboration with my classmates [Justin Chae](https://justin-chae.org), [Johan Lindqvist](https://www.linkedin.com/in/johan-lindqvist-871a4720b/), and [Thomas Lilly](https://foster.uw.edu/academics/degree-programs/phd-program/directory/thomas-lilly/) as the final project paper for [CSE 493S/599S: Advanced Machine Learning](https://courses.cs.washington.edu/courses/cse493s/25sp/) in University of Washington, taught by [Professor Sewoong Oh](https://homes.cs.washington.edu/~sewoong/). This project aimed to replicate the results of [the Rec-R1 paper](https://arxiv.org/pdf/2503.24289), which proposes a reinforcement learning framework combining large language models (LLMs) with recommendation systems. Using publicly available code and datasets, my teammates and I verified that Rec-R1 improved model performance across several tasks, including product search and sequential recommendation, and preserved general-purpose reasoning capabilities better than supervised fine-tuning. However, they could not reproduce the paper’s claims of computational efficiency due to limited access to high-memory GPUs and encountered significant issues with poorly documented code. Despite these challenges, the project confirmed Rec-R1’s performance benefits and highlighted the need for better resource access and code maintenance for reproducibility. 
+
 # Work at Mindful Conversion (2024)
 
 <table style="border-collapse: collapse; border: none;">
