@@ -1,5 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 search_enabled: false
+incremental: true
 title: Yeh Chan Yoo's Portfolio Site
 description: Yeh Chan Yoo's professional portfolio website
 aux_links:
