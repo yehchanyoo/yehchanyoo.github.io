@@ -21,6 +21,8 @@ This website was built to host some of the research work I did during the last f
 
 *Presented on October 9, 2023* ([Link](https://docs.google.com/presentation/d/16ASxBvUo6afS52CQQReqnSq4RH7ThPBqtJDuuHEZCwE/edit?usp=sharing), [PDF Link](</attachments/2023/CR4CR Autograder Model Presentation (Yehchan Yoo, October 9, copy).pdf>))
 
+<img src="attachments/2023/asag_roberta_image.jpeg">
+
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vQccxbmETAvqERuJJgqEJlBTFlKiXSQnPzanaNcz1AkRyLHu4FTeNIt947HWf9rlmBwlwuSIqHoS9iq/embed?start=false&loop=false&delayms=3000' frameborder='0' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
 
 In this presentation, I share the results of my research as a research assistant with UC Berkeley's [BEAR Center](https://bearcenter.berkeley.edu/) on the CR4CR project. The goal of the project was to explore how RoBERTa -- a state-of-the-art large language model -- could be applied to automatically grade short answers - a task with significant implications for scaling educational assessment. Through data collection, model training, and rigorous evaluation of a test set, I was able to develop a grading system that achieved a test accuracy of 75% when assessing short answers. In this presentation, I discuss the methodology, results, and limitations of the research, to further our understanding of both the potential and challenges of leveraging powerful deep learning models like RoBERTa for educational applications.
@@ -30,6 +32,8 @@ In this presentation, I share the results of my research as a research assistant
 ## [CR4CR GeoGebra Interactive Proof Presentation](https://docs.google.com/presentation/d/1FaPVOUcs32gKcQhHg7CvDcx2DdeiTRnhAd6rpwH8K5Y/edit?usp=sharing)
 
 *Presented on October 6, 2023* ([Link](https://docs.google.com/presentation/d/1FaPVOUcs32gKcQhHg7CvDcx2DdeiTRnhAd6rpwH8K5Y/edit?usp=sharing), [PDF Link](</attachments/2023/CR4CR GeoGebra Interactive Proof Presentation.pdf>))
+
+| <img src="attachments/2023/geogebra_demo_1.gif"> | <img src="attachments/2023/geogebra_demo_2.gif"> |
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vSXiN1D7ALnrnZaZDLu2ZYIvD5owRJvK8bq5nMIbpnGbABDzwOn4L9npJVdnowtb-qhAQe7jJ0IP3iO/embed?start=false&loop=false&delayms=3000' frameborder='0'  allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
 
