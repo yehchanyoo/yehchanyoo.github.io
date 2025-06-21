@@ -19,7 +19,7 @@ This website was built to host some of the research work I did during the last f
 
 ## [CR4CR Autograder Model Presentation](https://docs.google.com/presentation/d/16ASxBvUo6afS52CQQReqnSq4RH7ThPBqtJDuuHEZCwE/edit?usp=sharing)
 
-*Presented on October 9, 2023* ([Link](https://docs.google.com/presentation/d/16ASxBvUo6afS52CQQReqnSq4RH7ThPBqtJDuuHEZCwE/edit?usp=sharing), [PDF Link](<CR4CR Autograder Model Presentation (Yehchan Yoo, October 9, copy).pdf>))
+*Presented on October 9, 2023* ([Link](https://docs.google.com/presentation/d/16ASxBvUo6afS52CQQReqnSq4RH7ThPBqtJDuuHEZCwE/edit?usp=sharing), [PDF Link](</attachments/2023/CR4CR Autograder Model Presentation (Yehchan Yoo, October 9, copy).pdf>))
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vQccxbmETAvqERuJJgqEJlBTFlKiXSQnPzanaNcz1AkRyLHu4FTeNIt947HWf9rlmBwlwuSIqHoS9iq/embed?start=false&loop=false&delayms=3000' frameborder='0' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
 
@@ -29,7 +29,7 @@ In this presentation, I share the results of my research as a research assistant
 
 ## [CR4CR GeoGebra Interactive Proof Presentation](https://docs.google.com/presentation/d/1FaPVOUcs32gKcQhHg7CvDcx2DdeiTRnhAd6rpwH8K5Y/edit?usp=sharing)
 
-*Presented on October 6, 2023* ([Link](https://docs.google.com/presentation/d/1FaPVOUcs32gKcQhHg7CvDcx2DdeiTRnhAd6rpwH8K5Y/edit?usp=sharing), [PDF Link](<CR4CR GeoGebra Interactive Proof Presentation.pdf>))
+*Presented on October 6, 2023* ([Link](https://docs.google.com/presentation/d/1FaPVOUcs32gKcQhHg7CvDcx2DdeiTRnhAd6rpwH8K5Y/edit?usp=sharing), [PDF Link](</attachments/2023/CR4CR GeoGebra Interactive Proof Presentation.pdf>))
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vSXiN1D7ALnrnZaZDLu2ZYIvD5owRJvK8bq5nMIbpnGbABDzwOn4L9npJVdnowtb-qhAQe7jJ0IP3iO/embed?start=false&loop=false&delayms=3000' frameborder='0'  allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
 
@@ -43,19 +43,19 @@ In this presentation for UC Berkeley's [BEAR Center](https://bearcenter.berkeley
 
 ***
 
-## [Inference and Prediction on Crude Diabetes Prevalence in U.S. States Based on Vegetable Consumption](DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf)
+## [Inference and Prediction on Crude Diabetes Prevalence in U.S. States Based on Vegetable Consumption](/attachments/2023/DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf)
 
-*Last updated on May 12, 2023* ([Link](DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf))
+*Last updated on May 12, 2023* ([Link](/attachments/2023/DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf))
 
-<img src="DATA 102 Bayesian Beta Regression graph.png">
+<img src="attachments/2023/DATA 102 Bayesian Beta Regression graph.png">
 
 This paper was written in collaboration with my classmates [Christina Đặng](https://www.linkedin.com/in/christinadang2026/), [Conan Minihan](https://www.linkedin.com/in/conanminihan/), and [Tetsuro Escudero](https://www.linkedin.com/in/tetsuro-escudero-542a93219/) as the final project report for DATA 102: Data, Inference, and Decisions, taught by [Mr. Ramesh Sridharan](https://www.linkedin.com/in/rameshsridharan/) and [Professor Eaman Jahani](https://eamanjahani.com/) for the Spring 2023 semester.  This paper uses inferential and predictive techniques to examine the relationship between vegetable consumption and crude diabetes prevalence in American states and predict diabetes prevalence based on vegetable consumption.
 
 # 2022
 
-## [Replication and Improvement on "How do 401(k)s Affect Saving? Evidence from Change in 401(k) Eligibility"](group04_YY_XZ.pdf)
+## [Replication and Improvement on "How do 401(k)s Affect Saving? Evidence from Change in 401(k) Eligibility"](/attachments/2022/group04_YY_XZ.pdf)
 
-*Last updated on December 16, 2022* ([Link](group04_YY_XZ.pdf))
+*Last updated on December 16, 2022* ([Link](/attachments/2022/group04_YY_XZ.pdf))
 
 This paper was written in collaboration with my classmate [Xinyi Zi](https://www.linkedin.com/in/xinyi-zi/) as the final project paper for STAT 156: Causal Inference, taught by [Professor Peng Ding](https://statistics.berkeley.edu/people/peng-ding) for the Fall 2022 semester. This paper attempts to explore, replicate, critique, and re-do [Professor Alexander M. Gelber](https://gps.ucsd.edu/faculty-directory/alexander-gelber.html)'s 2011 causal inference paper ["How Do 401(k)s Affect Saving? Evidence from Changes in 401(k) Eligibility"](https://www.aeaweb.org/articles?id=10.1257/pol.3.4.103).
 
@@ -69,7 +69,7 @@ This paper was written in collaboration with my classmate [Xinyi Zi](https://www
 
 *Last updated on November 13, 2022* ([Link](https://deepnote.com/@berkeley-datathon-fall-2022-project/Presentation-3aa74663-1377-4af5-9f38-92009ab3c36b))
 
-<img src="Transit Employees vs Housing Units.png">
+<img src="attachments/2022/Transit Employees vs Housing Units.png">
 
 This article was made within 3 days for the Fall 2022 UC Berkeley Datathon for Social Good and won second place in the Urban Studies track. For this article, my Datathon team (consisting of [Gain Boonavich](https://www.linkedin.com/in/gainsira/), [Anita Ding](https://www.linkedin.com/in/anita-ding-530238225/), [Yixin Huang](https://www.linkedin.com/in/yixin-huang-91b7781aa/), and myself) used Python to perform linear regression and create data visualizations to dive into the relationship between the amount of investment in transit and the number of housing units in Californian counties.
 
@@ -77,7 +77,7 @@ This article was made within 3 days for the Fall 2022 UC Berkeley Datathon for S
 
 *From May 4, 2020, to February 3, 2022*
 
-<img src="rokaf_flag.svg">
+<img src="attachments/2020-2022/rokaf_flag.svg">
 
 I served in the Republic of Korea Air Force as a translator sergeant from 2020 to 2022 -- translating various government, legal, mechanical, and logistics documents (from Korean to English and from English to Korean) to facilitate smooth communication on logistical issues between the Republic of Korea Air Force and various foreign arms manufacturers.
 
@@ -93,11 +93,11 @@ During the Fall 2019 semester, as a member of the Data Consulting committee in t
 
 # 2018
 
-## [Meaning of Probabilities in Social Sciences](/susa_research_yy_fall_2018.html)
+## [Meaning of Probabilities in Social Sciences](/attachments/2018/susa_research_yy_fall_2018.html)
 
-*Last updated on December 20, 2023; originally written during the Fall 2018 semester* ([Link](/susa_research_yy_fall_2018.html))
+*Last updated on December 20, 2023; originally written during the Fall 2018 semester* ([Link](/attachments/2018/susa_research_yy_fall_2018.html))
 
-<img src="fivethirtyeight_2016_presidential_forecast.jpeg">
+<img src="attachments/2018/fivethirtyeight_2016_presidential_forecast.jpeg">
 
 As a declared Statistics major interested in social sciences, I often found that probability was used a lot in social science research. But I often wondered: *what do these probabilities fundamentally mean?* I wrote an article on the meaning of probabilities in social sciences to help answer this question during my time as a member of the Research and Publication Committee in Statistics Undergraduate Student Association (now called SAAS or Student Association for Applied Statistics).
 
@@ -105,11 +105,11 @@ As a declared Statistics major interested in social sciences, I often found that
 
 ***
 
-## [Analyzing Undergraduate Statistics Majors’ Preparation in Communication with Non-Statisticians in the University of California, Berkeley](/statistics_communication_paper/Yoo_Yehchan_Spring2018_CompleteResearchPaper.pdf)
+## [Analyzing Undergraduate Statistics Majors’ Preparation in Communication with Non-Statisticians in the University of California, Berkeley](/attachments/2018/Yoo_Yehchan_Spring2018_CompleteResearchPaper.pdf)
 
-*Last updated on May 9, 2018* ([Link](/statistics_communication_paper/Yoo_Yehchan_Spring2018_CompleteResearchPaper.pdf))
+*Last updated on May 9, 2018* ([Link](/attachments/2018/Yoo_Yehchan_Spring2018_CompleteResearchPaper.pdf))
 
-<img src="Statistical Communication AI-generated image.png">
+<img src="attachments/2018/Statistical Communication AI-generated image.png">
 
 Assessing the preparation of undergraduate statistics majors in statistical writing for non-statisticians at the University of California, Berkeley, revealed a significant gap. Despite substantial training in statistical writing within major classes, students lacked practical experience communicating with non-statisticians. Interviews with professors indicated a hesitancy to enforce stricter writing requirements, citing resource constraints and a desire for program growth. However, the findings underscored the pressing need for increased resources devoted to statistical writing education within the Department of Statistics. This project was written for my final project for the COLWRIT R4B class on discourse conventions in various academic fields.
 
@@ -119,6 +119,6 @@ Assessing the preparation of undergraduate statistics majors in statistical writ
 
 *Last updated on May 1, 2018* ([Link](https://saas.berkeley.edu/rp/suicide))
 
-<img src="yc3.png">
+<img src="attachments/2018/yc3.png">
 
 Statistical analysis of data from Mexico indicates that the legalization of passive euthanasia in certain Mexican regions likely is unrelated to the Mexican regions’ raw suicide rates in the short run. Difference-in-difference analysis on data from the Netherlands (and Norway) indicates that, while major events towards the legalization of active and passive euthanasia may have had a decreasing short-run impact on the raw suicide rate of the Netherlands, such effect -- if present -- likely became diluted over time. This research article was written during my time as a member of the Research and Publication Committee in Statistics Undergraduate Student Association (now called SAAS or Student Association for Applied Statistics).
