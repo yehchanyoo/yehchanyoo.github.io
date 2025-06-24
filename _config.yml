@@ -39,7 +39,7 @@ author:
       url: "https://stat.uw.edu/people/yehchan-yoo"
     - label: "Resume"
       icon: "fas fa-fw fa-file-alt"
-      url: "/attachments/Yeh Chan Yoo's Resume for LinkedIn and Handshake (11_17_2024).docx.pdf"
+      url: "/attachments/Yeh Chan Yoo's Most Recent Resume (June 24 2025).pdf"
 
 footer:
   links:
@@ -54,7 +54,7 @@ footer:
       url: "https://stat.uw.edu/people/yehchan-yoo"
     - label: "Resume"
       icon: "fas fa-fw fa-file-alt"
-      url: "/attachments/Yeh Chan Yoo's Resume for LinkedIn and Handshake (11_17_2024).docx.pdf"
+      url: "/attachments/Yeh Chan Yoo's Most Recent Resume (June 24 2025).pdf"
 
 atom_feed:
   hide: true 
