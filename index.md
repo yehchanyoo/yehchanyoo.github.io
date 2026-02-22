@@ -19,6 +19,17 @@ This website was built to host some of the research work I did during the last f
 
 # 2025
 
+## [The Impact of Client Balance and Credit Default on Term Deposit Subscription, Controlling for Socioeconomic Factors](/attachments/2025/BIOST_531_Final_Project.pdf)
+
+*Written and submitted on December 9, 2025* ([Link](/attachments/2025/BIOST_531_Final_Project.pdf))
+
+<figure>
+  <img src="attachments/2025/BIOST_531_final_project_image.jpg">
+  <figcaption>Illustrative image generated using Google Gemini and Google Nana Banana Pro; used solely for visual clarification and not included in the final paper.</figcaption>
+</figure>
+
+This paper was written in collaboration with another fellow MS Statistics student Alison Wong ([LinkedIn](linkedin.com/in/asnwong), [GitHub](https://github.com/alisonsnwong)) as the final project paper for [BIOST 531: Statistical Methods for Analysis with Missing Data](https://www.biostat.washington.edu/academics/courses/biost/531) by Professor Katie Wilson during the Autumn 2025 quarter. This study analyzes the Bank Marketing dataset from a Portuguese banking institution to quantify the effects of average yearly balance and credit default on term deposit subscription while controlling for missing socioeconomic data. Assuming a Missing at Random (MAR) mechanism based on observed data patterns, we utilized Complete Case (CC) analysis, Bayesian likelihood, and Multiple Imputation (MI) methods to handle missing data inside the dataset. We found that higher balances significantly increased subscription odds (~26% per 10,000 Euros), while credit default reduced them (~38–41%). Notably, CC analysis overestimated the negative effect of default compared to the other two methods, hinting at potential bias from using CC analysis.
+
 ## [Evaluation of Imputation Methods Under Different Missing Data Conditions](/attachments/2025/stat529_final_project_yehchan_yoo.pdf)
 
 *Written and submitted on June 9, 2025* ([Link](/attachments/2025/stat529_final_project_yehchan_yoo.pdf))
