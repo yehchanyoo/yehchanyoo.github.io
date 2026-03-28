@@ -46,7 +46,7 @@ interpretable, and purpose-built diagnostic tools can perform competitively with
 deeper networks, offering an efficient triage solution to alleviate clinical workloads
 without compromising patient safety.
 
-- This paper was also presented as a poster in the course's own poster session on June 9, 2025. The poster can be found below or accessed through [this link](/attachments/2026/cse_527_final_poster.pdf).
+- This paper was also presented as a poster in the course's own poster session on March 12, 2026. The poster can be found below or accessed through [this link](/attachments/2026/cse_527_final_poster.pdf).
 
 <img src="attachments/2026/cse_527_final_poster.png" alt="Poster preview image">
 
