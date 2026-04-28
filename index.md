@@ -19,6 +19,19 @@ This website was built to host some of the statistics and data science work I di
 
 # 2026
 
+## [scVIP: personalized modeling of single-cell transcriptomes for developmental and disease phenotypes](https://www.biorxiv.org/content/10.64898/2026.04.20.717759v1)
+
+*Posted on April 22, 2026* ([Link](https://www.biorxiv.org/content/10.64898/2026.04.20.717759v1) & [Codebase Link](https://codeocean.allenneuraldynamics.org/capsule/4344243/tree/v3))
+
+<figure>
+  <img src="/attachments/2026/scVIP_fig1.png">
+  <figcaption>Figure 1 from the Preprint Paper</figcaption>
+</figure>
+
+This project was done under the leadership of Allen Institute scientist [Jane Lai](https://www.linkedin.com/in/hsin-yu-jane-lai-b2547685/) and the guidance of [Dr. Mariano Gabitto](https://alleninstitute.org/person/mariano-gabitto/). The project revolves around scVIP, a generative framework that integrates transcriptional profiles and phenotypic markers to learn personalized individual-level embeddings using generative models and cell-type–aware multi-instance learning. I have contributed significantly to the documentation and codebase work for this paper, and I am named as the second author.
+
+Note that the paper is publicly released as the preprint as of April 28, 2026.
+
 ## [Deep Learning for Digital Pathology: Tumor Detection Using the PCam Dataset](/attachments/2026/CSE_527_Final_Report___PCam.pdf)
 
 *Written and submitted on March 20, 2026* ([Link](/attachments/2026/CSE_527_Final_Report___PCam.pdf))
