@@ -125,19 +125,6 @@ This paper was written in collaboration with my classmate [Xinyi Zi](https://www
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Tpw7Ch7XJDg' frameborder='0' allowfullscreen></iframe></div>
 
-***
-
-## [Transit and Housing in California](https://deepnote.com/@berkeley-datathon-fall-2022-project/Presentation-3aa74663-1377-4af5-9f38-92009ab3c36b) 
-
-*Last updated on November 13, 2022* ([Link](https://deepnote.com/@berkeley-datathon-fall-2022-project/Presentation-3aa74663-1377-4af5-9f38-92009ab3c36b))
-
-<figure>
-  <img src="/attachments/2022/Transit Employees vs Housing Units.png">
-  <figcaption>Graph from the article, visualizing the relationship between number of transit employees and housing units in California counties</figcaption>
-</figure>
-
-This article was made within 3 days for the Fall 2022 UC Berkeley Datathon for Social Good and won second place in the Urban Studies track. For this article, my Datathon team (consisting of [Gain Boonavich](https://www.linkedin.com/in/gainsira/), [Anita Ding](https://www.linkedin.com/in/anita-ding-530238225/), [Yixin Huang](https://www.linkedin.com/in/yixin-huang-91b7781aa/), and myself) used Python to perform linear regression and create data visualizations to dive into the relationship between the amount of investment in transit and the number of housing units in Californian counties.
-
 # 2019
 
 ## [SAAS x Trace Data](https://docs.google.com/presentation/d/12Q5RciThBbhEOnpQ-6ASKT7Fe_ZnnH4NoDMHMqB73cE/edit?usp=sharing)

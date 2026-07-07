@@ -8,20 +8,20 @@ toc: true
 toc_sticky: true
 ---
 
-아래 프로젝트들은 최신순으로 정렬되어 있습니다.
+아래 프로젝트들은 최신순으로 정렬되어 있습니다. **참고로 밑에 링크로 연결된 문서들은 모두 영문으로 작성되어 있습니다.**
 
 # 2026
 
-## [디지털 병리학을 위한 딥러닝: PCam 데이터셋을 활용한 종양 탐지](/attachments/2026/CSE_527_Final_Report___PCam.pdf)
+## [디지털 병리학을 위한 딥러닝: PatchCamelyon 기반 디지털 병리 종양 탐지(Deep Learning for Digital Pathology: Tumor Detection Using the PCam Dataset)](/attachments/2026/CSE_527_Final_Report___PCam.pdf)
 
 *2026년 3월 20일 작성 및 제출* ([링크](/attachments/2026/CSE_527_Final_Report___PCam.pdf))
 
 <figure>
   <img src="/attachments/2026/cse_527_project_description_image.jpg">
-  <figcaption>Google Gemini와 Google Nana Banana Pro를 사용하여 생성한 설명용 이미지. 시각적 이해를 돕기 위한 용도로만 사용되었으며, 최종 논문에는 포함되지 않았습니다. 내부 세포 이미지는 AI가 생성한 것으로 실제 사용된 데이터셋과는 관계가 없습니다.</figcaption>
+  <figcaption>Google Gemini와 Google Nana Banana Pro를 사용하여 생성한 설명용 이미지 (시각적 이해를 돕기 위한 용도로만 사용되었으며, 프로젝트 보고서에는 포함되지 않았습니다. 이미지 내의 세포 이미지는 AI가 생성한 것으로 실제 사용된 데이터셋과는 관계가 없습니다.)</figcaption>
 </figure>
 
-이 프로젝트는 워싱턴 대학교 ECE 대학원생 Simon Zou와 공동으로 수행하였으며, 2026년 겨울학기 [Su-In Lee 교수님](https://suinlee.cs.washington.edu/home)의 [CSE 527: 계산 생물학 - 생물학 및 생의학에서의 설명 가능한 AI](https://courses.cs.washington.edu/courses/cse527/) 수업의 기말 프로젝트입니다.
+이 프로젝트는 워싱턴 대학교 전기컴퓨터공학(ECE) 대학원생 사이먼 조우(Simon Zou)와 공동으로 수행하였으며, 2026년 겨울학기 [이수인 교수님](https://suinlee.cs.washington.edu/home)의 [CSE 527: 계산 생물학 - 생물학 및 생의학에서의 설명 가능한 인공지능](https://courses.cs.washington.edu/courses/cse527/) 수업의 기말 프로젝트입니다.
 전이성 조직의 정확한 식별은 암 진단에 필수적이지만, 의료 시스템은 병리학자 부족이라는 심각한 문제에 직면해 있습니다. 이 문제를 해결하기 위해, 본 논문은 딥러닝 아키텍처를 활용한 조직병리 이미지에서의 종양 탐지 자동화에 초점을 맞추었습니다. 맞춤형 합성곱 신경망을 기준 등변 모델 및 사전 학습된 잔차 네트워크와 비교 평가하였습니다. 모든 모델이 높은 진단 정확도를 달성하였고, 데이터 증강을 적용한 미세 조정된 잔차 네트워크가 가장 높은 전체 정확도를 기록하였지만, 맞춤형 모델은 월등히 뛰어난 연산 효율성을 보여주었습니다. 또한, 해석 가능성 분석 결과, 맞춤형 모델은 고도로 국소화된 세포 구조에 의존하여 예측을 수행한 반면, 사전 학습된 네트워크는 더 넓은 공간적 특징에 집중하였습니다. 이러한 결과는 경량화되고 해석 가능한 목적 특화 진단 도구가 더 깊은 네트워크와 경쟁력 있는 성능을 발휘할 수 있음을 시사하며, 환자 안전을 저해하지 않으면서 임상 업무량을 완화하는 효율적인 사전 분류 솔루션을 제공합니다.
 
 - 이 논문은 2026년 3월 12일 수업 내 포스터 세션에서도 발표되었습니다. 포스터는 아래에서 확인하거나 [이 링크](/attachments/2026/cse_527_final_poster.pdf)를 통해 접근하실 수 있습니다.
@@ -30,64 +30,64 @@ toc_sticky: true
 
 # 2025
 
-## [사회경제적 요인을 통제한 고객 잔액 및 신용 채무불이행이 정기 예금 가입에 미치는 영향](/attachments/2025/BIOST_531_Final_Project.pdf)
+## [사회경제적 요인을 통제 하에 고객 잔고 및 신용 부도가 정기예금 가입에 미치는 영향(The Impact of Client Balance and Credit Default on Term Deposit Subscription, Controlling for Socioeconomic Factors)](/attachments/2025/BIOST_531_Final_Project.pdf)
 
 *2025년 12월 9일 작성 및 제출* ([링크](/attachments/2025/BIOST_531_Final_Project.pdf))
 
 <figure>
   <img src="/attachments/2025/BIOST_531_final_project_image.jpg">
-  <figcaption>Google Gemini와 Google Nana Banana Pro를 사용하여 생성한 설명용 이미지. 시각적 이해를 돕기 위한 용도로만 사용되었으며, 최종 논문에는 포함되지 않았습니다.</figcaption>
+  <figcaption>Google Gemini와 Google Nana Banana Pro를 사용하여 생성한 설명용 이미지 (시각적 이해를 돕기 위한 용도로만 사용되었으며, 프로젝트 보고서에는 포함되지 않았습니다.)</figcaption>
 </figure>
 
-이 논문은 같은 통계학 석사과정 동기인 Alison Wong([LinkedIn](linkedin.com/in/asnwong), [GitHub](https://github.com/alisonsnwong))과 공동으로 작성하였으며, 2025년 가을학기 Katie Wilson 교수님의 [BIOST 531: 결측 데이터 분석을 위한 통계적 방법론](https://www.biostat.washington.edu/academics/courses/biost/531) 수업의 기말 프로젝트입니다. 이 연구는 포르투갈 은행의 Bank Marketing 데이터셋을 분석하여, 결측된 사회경제적 데이터를 통제하면서 연평균 잔액과 신용 채무불이행이 정기 예금 가입에 미치는 영향을 정량화하였습니다. 관측된 데이터 패턴을 기반으로 MAR(Missing at Random) 메커니즘을 가정하고, 완전 사례(CC) 분석, 베이지안 우도, 다중 대입(MI) 방법을 활용하여 데이터셋 내 결측 데이터를 처리하였습니다. 잔액이 높을수록 가입 확률이 유의하게 증가하였으며(10,000유로당 약 26%), 신용 채무불이행은 가입 확률을 감소시키는 것으로 나타났습니다(약 38-41%). 특히, CC 분석은 다른 두 방법에 비해 채무불이행의 부정적 효과를 과대추정하여, CC 분석 사용 시 발생할 수 있는 편향 가능성을 시사합니다.
+이 논문은 같은 통계학 석사과정 동기인 앨리슨 웡(Alison Wong) ([LinkedIn](linkedin.com/in/asnwong), [GitHub](https://github.com/alisonsnwong))과 공동으로 작성하였으며, 2025년 가을학기 케이티 윌슨(Katie Wilson) 교수님의 [BIOST 531: 결측 데이터 분석을 위한 통계적 방법론](https://www.biostat.washington.edu/academics/courses/biost/531) 수업의 기말 프로젝트입니다. 이 연구는 포르투갈 은행의 Bank Marketing 데이터셋을 분석하여, 결측된 사회경제적 데이터를 통제하면서 연평균 잔액과 신용 채무불이행이 정기 예금 가입에 미치는 영향을 정량화하였습니다. 관측된 데이터 패턴을 기반으로 무작위 결측(MAR 또는 Missing at Random) 메커니즘을 가정하고, 완전 사례(Complete Case 또는 CC) 분석, 베이지안 우도, 다중 대입(Multiple Imputation) 방법을 활용하여 데이터셋 내 결측 데이터를 처리하였습니다. 잔액이 높을수록 가입 확률이 유의하게 증가하였으며(10,000유로당 약 26%), 신용 채무불이행은 가입 확률을 감소시키는 것으로 나타났습니다(약 38-41%). 특히, CC 분석은 다른 두 방법에 비해 채무불이행의 부정적 효과를 과대추정하여, CC 분석 사용 시 발생할 수 있는 편향 가능성을 시사합니다.
 
 ***
 
-## [다양한 결측 데이터 조건에서의 대입 방법 평가](/attachments/2025/stat529_final_project_yehchan_yoo.pdf)
+## [다양한 결측 데이터 조건에서의 대입 방법 평가(Evaluation of Imputation Methods Under Different Missing Data Conditions)](/attachments/2025/stat529_final_project_yehchan_yoo.pdf)
 
 *2025년 6월 9일 작성 및 제출* ([링크](/attachments/2025/stat529_final_project_yehchan_yoo.pdf))
 
 <figure>
   <img src="/attachments/2025/image_for_imputation_evaluation_project.png">
-  <figcaption>ChatGPT로 생성하고 Google Gemini로 편집한 설명용 이미지. 시각적 이해를 돕기 위한 용도로만 사용되었으며, 최종 논문/포스터에는 포함되지 않았습니다.</figcaption>
+  <figcaption>ChatGPT로 생성하고 Google Gemini로 편집한 설명용 이미지 (시각적 이해를 돕기 위한 용도로만 사용되었으며, 최종 프로젝트 보고서 및 포스터에는 포함되지 않았습니다.)</figcaption>
 </figure>
 
 <figure>
   <img src="/attachments/2025/stat529_combined_imputation_comparison.png">
-  <figcaption>논문/포스터의 주요 시각화</figcaption>
+  <figcaption>프로젝트의 주요 시각화</figcaption>
 </figure>
 
-이 논문은 워싱턴 대학교에서 [Robin Mejia 교수님](https://www.biostat.washington.edu/people/robin-mejia)의 [STAT 529: 표본 조사 기법](https://stat.uw.edu/academics/course-catalog/stat-529) 수업의 기말 프로젝트로 작성되었습니다. 이 논문은 뉴욕주 2023년 1년 ACS 공공 마이크로데이터 표본에서 `RNTP`(임대료)와 `VALP`(부동산 가치) 두 변수에 대해 MCAR, MAR, MNAR 세 가지 결측 데이터 조건에서 다양한 대입 방법의 성능을 시뮬레이션합니다. 각 결측 데이터 조건에 대해 대입 없음, 평균, 무작위, 최근접 이웃, 회귀 등 다섯 가지 대입 접근법을 적용하였습니다. 연구 결과, 무작위 대입이 MNAR 조건에서 최적의 분위수 추정치를 산출하였으며, 평균 및 회귀 방법은 평균 추정에는 더 우수하지만 분위수를 왜곡하는 것으로 나타났습니다. 최근접 이웃 방법은 느리고 편향이 심하여 가장 효과가 낮았습니다.
+이 논문은 워싱턴 대학교에서 [로빈 메이하(Robin Meija) 교수님](https://www.biostat.washington.edu/people/robin-mejia)의 [STAT 529: 표본 조사 기법](https://stat.uw.edu/academics/course-catalog/stat-529) 수업의 기말 프로젝트로 작성되었습니다. 이 논문은 뉴욕주 2023년 1년 American Community Survey 공공 마이크로데이터 표본에서 임대료(`RNTP` 또는 rent price)와 부동산 가치(`VALP` 또는 property value) 두 변수에 대해 완전 무작위 결측(MCAR 또는 Missing Completly at Random), 무작위 결측(MAR 또는 Missing at Random), 비무작위 결측(MNAR 또는 Missing Not at Random) 세 가지 결측 데이터 조건에서 다양한 대입 방법의 성능을 시뮬레이션합니다. 각 결측 데이터 조건에 대해 대입 없음, 평균, 무작위, 최근접 이웃, 회귀 등 다섯 가지 대입 접근법을 적용하였습니다. 연구 결과, 무작위 대입법은 비무작위 결측 조건에서 가장 우수한 분위수 추정치를 제공하였으며, 평균 및 회귀 방법은 평균 추정에는 더 우수하지만 분위수를 왜곡하는 것으로 나타났습니다. 최근접 이웃 방법은 느리고 편향이 심하여 가장 효과가 낮았습니다.
 
-- 이 논문은 2025년 6월 9일 Spring CSSS 포스터 세션에서도 발표되었습니다. 포스터는 아래에서 확인하거나 [이 링크](/attachments/2025/stat529_poster_final.pdf)를 통해 접근하실 수 있습니다.
+- 이 논문은 2025년 6월 9일 봄 학기 워싱턴 대학교 통계·사회과학 센터(University of Washington Center for Statistics and Social Sciences) 포스터 세션에서도 발표되었습니다. 포스터는 아래에서 확인하거나 [이 링크](/attachments/2025/stat529_poster_final.pdf)를 통해 접근하실 수 있습니다.
 
 <img src="/attachments/2025/stat529_poster_image.jpeg" alt="포스터 미리보기 이미지">
 
 ***
 
-## [Rec-R1 재현 연구](/attachments/2025/CSE_493S_599S_Final_Project.pdf)
+## [Rec-R1 재현 연구(Replication of Rec-R1)](/attachments/2025/CSE_493S_599S_Final_Project.pdf)
 
 *2025년 6월 6일 작성 및 제출* ([링크](/attachments/2025/CSE_493S_599S_Final_Project.pdf), [Github 저장소](https://github.com/yehchanyoo/Rec-R1_magic))
 
 <figure>
   <img src="/attachments/2025/image_for_replication_of_rec-r1_project.png">
-  <figcaption>ChatGPT로 생성한 설명용 이미지. 시각적 이해를 돕기 위한 용도로만 사용되었으며, 최종 논문에는 포함되지 않았습니다.</figcaption>
+  <figcaption>ChatGPT로 생성한 설명용 이미지 (시각적 이해를 돕기 위한 용도로만 사용되었으며, 최종 보고서에는 포함되지 않았습니다.)</figcaption>
 </figure>
 <figure>
   <table style="border-collapse: collapse; border: none;">
     <tr style="border: none;">
-      <td style="border: none;"><img src="/attachments/2025/CSE_493S_C4_results.png"></td>
+      <td style="border: none;"><img src="/attachments/2025/CSE_49ㅗㄴ3S_C4_results.png"></td>
       <td style="border: none;"><img src="/attachments/2025/CSE_493S_Beauty_results.png"></td>
     </tr>
   </table>
   <figcaption>논문의 두 시각화 (Figure 2와 Figure 3)</figcaption>
 </figure>
 
-이 논문은 워싱턴 대학교에서 [Sewoong Oh 교수님](https://homes.cs.washington.edu/~sewoong/)이 가르치시는 [CSE 493S/599S: 고급 머신러닝](https://courses.cs.washington.edu/courses/cse493s/25sp/) 수업의 기말 프로젝트로, 같은 반 동기들인 [Justin Chae](https://justin-chae.org), [Johan Lindqvist](https://www.linkedin.com/in/johan-lindqvist-871a4720b/), [Thomas Lilly](https://foster.uw.edu/academics/degree-programs/phd-program/directory/thomas-lilly/)와 공동으로 작성하였습니다. 이 프로젝트는 대규모 언어 모델(LLM)과 추천 시스템을 결합하는 강화 학습 프레임워크를 제안한 [Rec-R1 논문](https://arxiv.org/pdf/2503.24289)의 결과를 재현하는 것을 목표로 하였습니다. 공개된 코드와 데이터셋을 사용하여, 팀원들과 함께 Rec-R1이 제품 검색 및 순차적 추천 등 여러 과제에서 모델 성능을 향상시키고, 지도 학습 미세 조정보다 범용 추론 능력을 더 잘 보존함을 검증하였습니다. 그러나 고용량 메모리 GPU 접근의 한계로 인해 논문의 연산 효율성 주장을 재현할 수 없었으며, 부실하게 문서화된 코드와 관련된 상당한 문제도 발견하였습니다. 이러한 어려움에도 불구하고, 이 프로젝트는 Rec-R1의 성능 이점을 확인하였으며, 재현성을 위한 더 나은 리소스 접근과 코드 유지보수의 필요성을 강조하였습니다.
+이 논문은 워싱턴 대학교에서 [오세웅 교수님](https://homes.cs.washington.edu/~sewoong/)이 가르치시는 [CSE 493S/599S: 고급 머신러닝](https://courses.cs.washington.edu/courses/cse493s/25sp/) 수업의 기말 프로젝트로, 같은 수업을 수강한 [채정인](https://justin-chae.org), [요한 린드퀴스트 (Johan Lindqvist)](https://www.linkedin.com/in/johan-lindqvist-871a4720b/), [토마스 릴리 (Thomas Lilly)](https://foster.uw.edu/academics/degree-programs/phd-program/directory/thomas-lilly/)와 공동으로 작성하였습니다. 이 프로젝트는 대규모 언어 모델(LLM)과 추천 시스템을 결합하는 강화 학습 프레임워크를 제안한 [Rec-R1 논문](https://arxiv.org/pdf/2503.24289)의 결과를 재현하는 것을 목표로 하였습니다. 공개된 코드와 데이터셋을 사용하여, 팀원들과 함께 Rec-R1이 제품 검색 및 순차적 추천 등 여러 과제에서 모델 성능을 향상시키고, 지도 학습 미세 조정보다 범용 추론 능력을 더 잘 보존함을 검증하였습니다. 그러나 고용량 메모리 GPU 접근의 한계로 인해 논문의 연산 효율성 주장을 재현할 수 없었으며, 부실하게 문서화된 코드와 관련된 상당한 문제도 발견하였습니다. 이러한 어려움에도 불구하고, 이 프로젝트는 Rec-R1의 성능 이점을 확인하였으며, 재현성을 위한 더 나은 리소스 접근과 코드 유지보수의 필요성을 강조하였습니다.
 
 # 2023
 
-## [채소 소비를 기반으로 한 미국 주별 조(粗)당뇨병 유병률의 추론 및 예측](/attachments/2023/DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf)
+## [채소 소비를 기반으로 한 미국 주별 조(粗)당뇨병 유병률의 추론 및 예측(Inference and Prediction on Crude Diabetes Prevalence in U.S. States Based on Vegetable Consumption)](/attachments/2023/DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf)
 
 *2023년 5월 12일 최종 업데이트* ([링크](/attachments/2023/DATA_C102_Project_Final_Project_Submission__CD_TE_CM_YY___230512_.pdf))
 
@@ -96,32 +96,19 @@ toc_sticky: true
   <figcaption>논문 내 베이지안 예측 모델의 베이지안 베타 회귀 그래프</figcaption>
 </figure>
 
-이 논문은 2023년 봄학기 [Ramesh Sridharan](https://www.linkedin.com/in/rameshsridharan/)과 [Eaman Jahani 교수님](https://eamanjahani.com/)이 가르치시는 DATA 102: 데이터, 추론, 의사결정 수업의 기말 프로젝트로, 같은 반 동기들인 [Christina Đặng](https://www.linkedin.com/in/christinadang2026/), [Conan Minihan](https://www.linkedin.com/in/conanminihan/), [Tetsuro Escudero](https://www.linkedin.com/in/tetsuro-escudero-542a93219/)와 공동으로 작성하였습니다. 이 논문은 추론적 및 예측적 기법을 사용하여 미국 주들의 채소 소비와 조당뇨병 유병률 간의 관계를 조사하고, 채소 소비를 기반으로 당뇨병 유병률을 예측합니다.
+이 논문은 2023년 봄학기 [라메쉬 스라다란(Ramesh Sridharan) 강사님](https://www.linkedin.com/in/rameshsridharan/)과 [에이만 자하니(Eaman Jahani) 교수님](https://eamanjahani.com/)이 가르치시는 DATA 102: 데이터, 추론, 의사결정 수업의 기말 프로젝트로, 같은 반 동기들인 [크리스티나 덩(Christina Đặng)](https://www.linkedin.com/in/christinadang2026/), [코난 미니한(Conan Minihan)](https://www.linkedin.com/in/conanminihan/), [테츠로 에스쿠데로(Tetsuro Escudero)](https://www.linkedin.com/in/tetsuro-escudero-542a93219/)와 공동으로 작성하였습니다. 이 논문은 추론적 및 예측적 기법을 사용하여 미국 주들의 채소 소비와 조당뇨병 유병률 간의 관계를 조사하고, 채소 소비를 기반으로 당뇨병 유병률을 예측합니다.
 
 # 2022
 
-## ["401(k)가 저축에 미치는 영향: 401(k) 적격성 변화로부터의 증거"에 대한 재현 및 개선](/attachments/2022/group04_YY_XZ.pdf)
+## [｢401(k) 가입자격 변화가 저축에 미치는 영향｣ 재현 및 개선 연구(Replication and Improvement of "How Do 401(k)s Affect Saving? Evidence from Changes in 401(k) Eligibility")](/attachments/2022/group04_YY_XZ.pdf)
 
 *2022년 12월 16일 최종 업데이트* ([링크](/attachments/2022/group04_YY_XZ.pdf))
 
-이 논문은 2022년 가을학기 [Peng Ding 교수님](https://statistics.berkeley.edu/people/peng-ding)이 가르치시는 STAT 156: 인과 추론 수업의 기말 프로젝트로, 같은 반 동기인 [Xinyi Zi](https://www.linkedin.com/in/xinyi-zi/)와 공동으로 작성하였습니다. 이 논문은 [Alexander M. Gelber 교수](https://gps.ucsd.edu/faculty-directory/alexander-gelber.html)의 2011년 인과 추론 논문 ["How Do 401(k)s Affect Saving? Evidence from Changes in 401(k) Eligibility"](https://www.aeaweb.org/articles?id=10.1257/pol.3.4.103)를 탐색, 재현, 비판, 재수행합니다.
+이 논문은 2022년 가을학기 [펑 딩(Peng Ding) 교수님](https://statistics.berkeley.edu/people/peng-ding)이 가르치시는 STAT 156: 인과 추론 수업의 기말 프로젝트로, 같은 반 동기인 [신이 지(Xinyi Zi)](https://www.linkedin.com/in/xinyi-zi/)와 공동으로 작성하였습니다. 이 논문은 [알렉산더 M. 겔버(Alexander M. Gelber) 교수](https://gps.ucsd.edu/faculty-directory/alexander-gelber.html)의 2011년 인과 추론 논문 [｢401(k) 가입자격 변화가 저축에 미치는 영향｣](https://www.aeaweb.org/articles?id=10.1257/pol.3.4.103)를 탐색, 재현, 비판, 재수행합니다.
 
 - 비디오 발표: [https://www.youtube.com/watch?v=Tpw7Ch7XJDg&feature=youtu.be&ab_channel=XinyiZi](https://www.youtube.com/watch?v=Tpw7Ch7XJDg&feature=youtu.be&ab_channel=XinyiZi)
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/Tpw7Ch7XJDg' frameborder='0' allowfullscreen></iframe></div>
-
-***
-
-## [캘리포니아의 대중교통과 주택](https://deepnote.com/@berkeley-datathon-fall-2022-project/Presentation-3aa74663-1377-4af5-9f38-92009ab3c36b) 
-
-*2022년 11월 13일 최종 업데이트* ([링크](https://deepnote.com/@berkeley-datathon-fall-2022-project/Presentation-3aa74663-1377-4af5-9f38-92009ab3c36b))
-
-<figure>
-  <img src="/attachments/2022/Transit Employees vs Housing Units.png">
-  <figcaption>캘리포니아 카운티별 대중교통 직원 수와 주택 수의 관계를 시각화한 그래프</figcaption>
-</figure>
-
-이 기사는 2022년 가을 UC Berkeley 사회 공익을 위한 데이터톤에서 3일 만에 작성되었으며 도시 연구 트랙에서 2등을 수상하였습니다. 이 기사를 위해 데이터톤 팀([Gain Boonavich](https://www.linkedin.com/in/gainsira/), [Anita Ding](https://www.linkedin.com/in/anita-ding-530238225/), [Yixin Huang](https://www.linkedin.com/in/yixin-huang-91b7781aa/), 그리고 저)은 Python을 사용하여 선형 회귀 분석을 수행하고 데이터 시각화를 만들어 캘리포니아 카운티의 대중교통 투자액과 주택 수 간의 관계를 심층적으로 살펴보았습니다.
 
 # 2019
 
