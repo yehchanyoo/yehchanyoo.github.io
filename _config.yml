@@ -18,6 +18,20 @@ defaults:
       layout: single
       toc: true
       toc_sticky: true
+  # English pages defaults
+  - scope:
+      path: "en"
+    values:
+      layout: single
+      author_profile: true
+      lang: "en"
+  # Korean pages defaults
+  - scope:
+      path: "ko"
+    values:
+      layout: single
+      author_profile: true
+      lang: "ko"
 
 incremental: true
 title: Yeh Chan Yoo's Portfolio Site
@@ -57,4 +71,4 @@ footer:
       url: "/attachments/Yeh Chan Yoo's Most Recent Resume (April 14, 2026).pdf"
 
 atom_feed:
-  hide: true 
+  hide: true

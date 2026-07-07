@@ -1,2 +1,44 @@
 <!-- Favicon -->
 <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon" />
+
+<!-- Language switcher styles -->
+<style>
+  .lang-switcher {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3em;
+    margin-left: 0.5em;
+    font-size: 0.8em;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+  }
+  .lang-link {
+    color: #999 !important;
+    text-decoration: none !important;
+    padding: 0.15em 0.35em;
+    border-radius: 3px;
+    transition: color 0.2s ease, background-color 0.2s ease;
+  }
+  .lang-link:hover {
+    color: #494e52 !important;
+    background-color: #f0f0f0;
+  }
+  .lang-link.lang-active {
+    color: #fff !important;
+    background-color: #494e52;
+  }
+  .lang-link.lang-active:hover {
+    background-color: #3b3f43;
+    color: #fff !important;
+  }
+  .lang-sep {
+    color: #ccc;
+    font-weight: 300;
+    user-select: none;
+  }
+  .lang-switcher-item {
+    border-left: 1px solid #eee;
+    padding-left: 0.8em !important;
+    margin-left: 0.3em !important;
+  }
+</style>

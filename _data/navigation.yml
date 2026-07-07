@@ -1,3 +1,17 @@
-main:
+# English navigation
+main-en:
   - title: "Home"
-    url: /
+    url: /en/
+  - title: "Career & Research"
+    url: /en/career/
+  - title: "Projects"
+    url: /en/projects/
+
+# Korean navigation
+main-ko:
+  - title: "홈"
+    url: /ko/
+  - title: "경력 & 연구"
+    url: /ko/career/
+  - title: "프로젝트"
+    url: /ko/projects/
