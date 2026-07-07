@@ -6,6 +6,8 @@ main-en:
     url: /en/career/
   - title: "Projects"
     url: /en/projects/
+  - title: "Hackathons"
+    url: /en/hackathons/
 
 # Korean navigation
 main-ko:
@@ -15,3 +17,5 @@ main-ko:
     url: /ko/career/
   - title: "프로젝트"
     url: /ko/projects/
+  - title: "해커톤"
+    url: /ko/hackathons/
