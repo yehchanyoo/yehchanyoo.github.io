@@ -125,7 +125,7 @@ toc_sticky: true
 
 # 2018
 
-## [사회과학에서의 확률의 의미](/attachments/2018/susa_research_yy_fall_2018.html)
+## [사회과학에서의 확률의 의미(Meaning of Probabilities in Social Sciences)](/attachments/2018/susa_research_yy_fall_2018.html)
 
 *2025년 7월 13일 최종 업데이트; 원래 2018년 가을학기에 작성* ([링크](/attachments/2018/susa_research_yy_fall_2018.html))
 
@@ -138,7 +138,7 @@ toc_sticky: true
 
 ***
 
-## [UC 버클리 통계학 학부생의 비통계학자와의 의사소통 준비도 분석](/attachments/2018/Yoo_Yehchan_Spring2018_CompleteResearchPaper.pdf)
+## [UC 버클리 통계학 학부생의 비통계학자와의 의사소통 준비도 분석(Analyzing Undergraduate Statistics Majors' Preparation in Communication with Non-Statisticians in the University of California, Berkeley)](/attachments/2018/Yoo_Yehchan_Spring2018_CompleteResearchPaper.pdf)
 
 *2018년 5월 9일 최종 업데이트* ([링크](/attachments/2018/Yoo_Yehchan_Spring2018_CompleteResearchPaper.pdf))
 
@@ -151,7 +151,7 @@ UC 버클리 통계학 학부생의 비통계학자를 위한 통계적 글쓰�
 
 ***
 
-## [지역의 안락사 합법화와 해당 지역의 자살률 사이에 통계적 관계가 있는가?](https://saas.berkeley.edu/rp/suicide)
+## [지역의 안락사 합법화와 해당 지역의 자살률 사이에 통계적 관계가 있는가?(Is there a statistical relationship between a region's legalization of euthanasia and that region's suicide rate?)](https://saas.berkeley.edu/rp/suicide)
 
 *2018년 5월 1일 최종 업데이트* ([링크](https://saas.berkeley.edu/rp/suicide))
 
