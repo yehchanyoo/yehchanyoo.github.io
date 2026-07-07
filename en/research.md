@@ -2,13 +2,15 @@
 layout: single
 author_profile: true
 lang: en
-permalink: /en/career/
-title: "Career & Research"
+permalink: /en/research/
+title: "Research"
 toc: true
 toc_sticky: true
 ---
 
-# Published Research
+This webpage goes over the research work I have done over my time as a student in University of Washington and UC Berkeley. (If you want to know more about my career, check out [my LinkedIn profile](https://www.linkedin.com/in/yehchanyoo/) or [my resume](/attachments/2026/Resume.pdf)!)
+
+# Graduate School Research
 
 ## [scVIP: personalized modeling of single-cell transcriptomes for developmental and disease phenotypes](https://www.biorxiv.org/content/10.64898/2026.04.20.717759v1)
 
@@ -23,9 +25,7 @@ This project was done under the leadership of Allen Institute scientist [Jane La
 
 Note that the paper is publicly released as the preprint as of April 28, 2026.
 
----
-
-# Research Experience
+# Undergraduate School Research
 
 ## [CR4CR Autograder Model Presentation](https://docs.google.com/presentation/d/16ASxBvUo6afS52CQQReqnSq4RH7ThPBqtJDuuHEZCwE/edit?usp=sharing)
 
@@ -65,30 +65,3 @@ In this presentation for UC Berkeley's [BEAR Center](https://bearcenter.berkeley
     - [Rearrangement Proof of the Pythagorean Theorem](https://www.geogebra.org/m/r2csGxMa)
     - [Power of a Point Proof Part 1: Between Two Chords](https://www.geogebra.org/m/PUbzFKSK)
     - [Bertrand's Paradox](https://www.geogebra.org/m/knm5erhz)
-
----
-
-# Work Experience
-
-## Work at Mindful Conversion (2024)
-
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;"><img src="/attachments/2024/mindful_conversion_logo.jpg"></td>
-    <td style="border: none;"><img src="/attachments/2024/kixely_logo.jpg"></td>
-  </tr>
-</table>
-
-For much of 2024, I worked as the primary Data Scientist for [Mindful Conversion](https://mindfulconversion.com/) in 2024 before heading to the University of Washington for graduate school in autumn. During my time at Mindful Conversion, I led marketing analytics efforts, developed and optimized data pipelines for its predictive SEO product [Kixely](https://www.kixely.com/), conducted exploratory data analysis on large-scale marketing datasets, and authored influential data-driven reports and visualizations that shaped marketing strategies for clients.
-
----
-
-# Military Service
-
-## Gap Years Due to Military Service (2020-2022)
-
-*From May 4, 2020, to February 3, 2022*
-
-<img src="/attachments/2020-2022/rokaf_flag.svg">
-
-I served in the Republic of Korea Air Force as a translator sergeant from 2020 to 2022 -- translating various government, legal, mechanical, and logistics documents (from Korean to English and from English to Korean) to facilitate smooth communication on logistical issues between the Republic of Korea Air Force and various foreign arms manufacturers.

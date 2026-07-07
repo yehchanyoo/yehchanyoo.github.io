@@ -2,13 +2,15 @@
 layout: single
 author_profile: true
 lang: ko
-permalink: /ko/career/
-title: "경력 & 연구"
+permalink: /ko/research/
+title: "연구"
 toc: true
 toc_sticky: true
 ---
 
-# 출판 연구
+이 페이지에서는 제가 워싱턴 대학교와 UC 버클리에서 학생으로 재학하는 동안 수행한 연구를 다룹니다. (제 경력에 대해 더 자세히 알고 싶으시다면 [저의 링크드인 프로필](https://www.linkedin.com/in/yehchanyoo/)이나 [이력서](/attachments/2026/Resume.pdf)를 확인하면 됩니다!)
+
+# 대학원 연구
 
 ## [scVIP: 발달 및 질병 표현형을 위한 단일 세포 전사체의 개인화 모델링](https://www.biorxiv.org/content/10.64898/2026.04.20.717759v1)
 
@@ -23,9 +25,7 @@ toc_sticky: true
 
 이 논문은 2026년 4월 28일자로 프리프린트로 공개되었습니다.
 
----
-
-# 연구 경력
+# 학부 연구
 
 ## [CR4CR 자동 채점 모델 발표](https://docs.google.com/presentation/d/16ASxBvUo6afS52CQQReqnSq4RH7ThPBqtJDuuHEZCwE/edit?usp=sharing)
 
@@ -60,35 +60,8 @@ toc_sticky: true
 
 UC Berkeley의 [BEAR Center](https://bearcenter.berkeley.edu/)에서의 이 발표에서는 GeoGebra를 활용한 기존 작업과 대화형 교육 자료 개발에 이 프로그램을 활용할 가능성에 대해 논의합니다. GeoGebra는 기하학과 대수학의 동적 시각화를 생성하고 공유할 수 있는 무료 교육용 소프트웨어입니다. GeoGebra 시각화 개발 과정과 효과적인 개발을 위한 팁을 공유하며, 전체 조회수 15,000회 이상을 기록한 GeoGebra 애플릿도 소개합니다.
 
-- 유예찬의 GeoGebra 웹페이지: [https://www.geogebra.org/u/focicle2020](https://www.geogebra.org/u/focicle2020)
+- 저의 GeoGebra 웹페이지: [https://www.geogebra.org/u/focicle2020](https://www.geogebra.org/u/focicle2020)
   - 발표에서 사용된 GeoGebra 데모:
     - [피타고라스 정리의 재배열 증명](https://www.geogebra.org/m/r2csGxMa)
     - [멱의 점 증명 Part 1: 두 현 사이](https://www.geogebra.org/m/PUbzFKSK)
     - [베르트랑의 역설](https://www.geogebra.org/m/knm5erhz)
-
----
-
-# 경력
-
-## Mindful Conversion 근무 (2024)
-
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none;"><img src="/attachments/2024/mindful_conversion_logo.jpg"></td>
-    <td style="border: none;"><img src="/attachments/2024/kixely_logo.jpg"></td>
-  </tr>
-</table>
-
-2024년 대부분의 기간 동안 워싱턴 대학교 대학원 입학 전까지 [Mindful Conversion](https://mindfulconversion.com/)의 수석 데이터 과학자로 근무하였습니다. 재직 기간 동안 마케팅 분석을 주도하고, 예측형 SEO 제품인 [Kixely](https://www.kixely.com/)의 데이터 파이프라인을 개발 및 최적화하였으며, 대규모 마케팅 데이터셋에 대한 탐색적 데이터 분석을 수행하고, 고객사의 마케팅 전략에 영향을 미친 데이터 기반 보고서와 시각화 자료를 작성하였습니다.
-
----
-
-# 군 복무
-
-## 대한민국 공군 복무 (2020-2022)
-
-*2020년 5월 4일 ~ 2022년 2월 3일*
-
-<img src="/attachments/2020-2022/rokaf_flag.svg">
-
-2020년부터 2022년까지 대한민국 공군에서 번역병으로 복무하였습니다. 대한민국 공군과 다양한 해외 무기 제조업체 간의 원활한 물류 커뮤니케이션을 위해 정부, 법률, 기계, 물류 관련 문서를 한영/영한 번역하는 업무를 수행하였습니다.

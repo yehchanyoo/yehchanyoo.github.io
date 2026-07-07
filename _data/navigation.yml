@@ -2,8 +2,8 @@
 main-en:
   - title: "Home"
     url: /en/
-  - title: "Career & Research"
-    url: /en/career/
+  - title: "Research"
+    url: /en/research/
   - title: "Projects"
     url: /en/projects/
   - title: "Hackathons"
@@ -13,8 +13,8 @@ main-en:
 main-ko:
   - title: "홈"
     url: /ko/
-  - title: "경력 & 연구"
-    url: /ko/career/
+  - title: "연구"
+    url: /ko/research/
   - title: "프로젝트"
     url: /ko/projects/
   - title: "해커톤"
