@@ -8,7 +8,7 @@ title: " "
 
 **Welcome to my portfolio website! :)**
 
-_Note:_ It is recommended that this webpage be viewed on a large screen (e.g. tablet, laptop) for the most optimal experience.
+_Note:_ It is recommended that this website be viewed on a large screen (e.g. tablet, laptop) for the most optimal experience.
 
 # About Me
 
@@ -16,4 +16,6 @@ Hello! My name is Yeh Chan (Yehchan) Yoo, and I am a recent graduate from [the M
 
 This website was built to host some of the statistics and data science work I did during the last few years; I sincerely hope you enjoy reading and interacting with my portfolio website!
 
-Please use the navigation bar above to explore my [Career & Research](/en/career/) and [Projects](/en/projects/).
+Please use the navigation bar above to explore my [research](/en/research/), my [projects](/en/projects/), and my [hackathon](/en/hackathons/).
+
+If you want to learn more about my past experiences, feel free to take a look at my [resume](/attachments/Yeh Chan Yoo's Most Recent Resume (April 14, 2026).pdf) and my [LinkedIn profile](https://www.linkedin.com/in/yehchan-yoo/).

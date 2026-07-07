@@ -14,14 +14,14 @@ This webpage goes over the research work I have done over my time as a student i
 
 ## [scVIP: personalized modeling of single-cell transcriptomes for developmental and disease phenotypes](https://www.biorxiv.org/content/10.64898/2026.04.20.717759v1)
 
-*Posted on April 22, 2026* ([Link](https://www.biorxiv.org/content/10.64898/2026.04.20.717759v1) & [Codebase Link](https://codeocean.allenneuraldynamics.org/capsule/4344243/tree/v3))
+*Posted on April 22, 2026* ([Link](https://www.biorxiv.org/content/10.64898/2026.04.20.717759v2) & [Codebase Link](https://codeocean.allenneuraldynamics.org/capsule/4344243/tree))
 
 <figure>
   <img src="/attachments/2026/scVIP_fig1.png">
   <figcaption>Figure 1 from the Preprint Paper</figcaption>
 </figure>
 
-This project was done under the leadership of Allen Institute scientist [Jane Lai](https://www.linkedin.com/in/hsin-yu-jane-lai-b2547685/) and the guidance of [Dr. Mariano Gabitto](https://alleninstitute.org/person/mariano-gabitto/). The project revolves around scVIP, a generative framework that integrates transcriptional profiles and phenotypic markers to learn personalized individual-level embeddings using generative models and cell-type–aware multi-instance learning. I have contributed significantly to the documentation and codebase work for this paper, and I am named as the second author.
+This project was done under the leadership of Allen Institute (for Brain Science) scientist [Jane Lai](https://www.linkedin.com/in/hsin-yu-jane-lai-b2547685/) and the guidance of Professor Mariano Gabitto ([Allen Institute profile](https://alleninstitute.org/person/mariano-gabitto/). [UW profile](https://stat.uw.edu/people/mariano-gabitto-0)). The project revolves around scVIP, a generative framework that integrates transcriptional profiles and phenotypic markers to learn personalized individual-level embeddings using generative models and cell-type–aware multi-instance learning. I have contributed significantly to the documentation and codebase work for this paper, and I am named as the second author.
 
 Note that the paper is publicly released as the preprint as of April 28, 2026.
 
@@ -33,12 +33,12 @@ Note that the paper is publicly released as the preprint as of April 28, 2026.
 
 <figure>
   <img src="/attachments/2023/asag_roberta_image.jpeg">
-  <figcaption>Illustrative image generated with ChatGPT; used solely for visual clarification and not included in the final paper.</figcaption>
+  <figcaption>Illustrative image generated with ChatGPT; used solely for visual clarification and not included in the final presentation.</figcaption>
 </figure>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vQccxbmETAvqERuJJgqEJlBTFlKiXSQnPzanaNcz1AkRyLHu4FTeNIt947HWf9rlmBwlwuSIqHoS9iq/embed?start=false&loop=false&delayms=3000' frameborder='0' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>
 
-In this presentation, I share the results of my research as a research assistant with UC Berkeley's [BEAR Center](https://bearcenter.berkeley.edu/) on the CR4CR project. The goal of the project was to explore how RoBERTa -- a state-of-the-art large language model -- could be applied to automatically grade short answers - a task with significant implications for scaling educational assessment. Through data collection, model training, and rigorous evaluation of a test set, I was able to develop a grading system that achieved a test accuracy of 75% when assessing short answers. In this presentation, I discuss the methodology, results, and limitations of the research, to further our understanding of both the potential and challenges of leveraging powerful deep learning models like RoBERTa for educational applications.
+In this presentation, I share the results of my research as a research assistant with UC Berkeley's [Berkeley Evaluation & Assessment Research (BEAR) Center](https://bearcenter.berkeley.edu/) on the CR4CR project. The goal of the project was to explore how RoBERTa -- a state-of-the-art large language model -- could be applied to automatically grade short answers - a task with significant implications for scaling educational assessment. Through data collection, model training, and rigorous evaluation of a test set, I was able to develop a grading system that achieved a test accuracy of 75% when assessing short answers. In this presentation, I discuss the methodology, results, and limitations of the research, to further our understanding of both the potential and challenges of leveraging powerful deep learning models like RoBERTa for educational applications.
 
 ***
 
