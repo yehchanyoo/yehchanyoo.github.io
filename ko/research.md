@@ -12,7 +12,7 @@ toc_sticky: true
 
 # 대학원 연구
 
-## [scVIP: 발달 및 질병 표현형을 위한 단일 세포 전사체의 개인화 모델링](https://www.biorxiv.org/content/10.64898/2026.04.20.717759v1)
+## [scVIP: 발달 및 질환 표현형 분석을 위한 단일 세포 전사체 데이터 기반 개인 맞춤형 모형화 방법론 개발](https://www.biorxiv.org/content/10.64898/2026.04.20.717759v1)
 
 *2026년 4월 22일 게시* ([링크](https://www.biorxiv.org/content/10.64898/2026.04.20.717759v2) & [코드베이스 링크](https://codeocean.allenneuraldynamics.org/capsule/4344243/tree))
 
@@ -21,7 +21,7 @@ toc_sticky: true
   <figcaption>프리프린트 논문의 Figure 1</figcaption>
 </figure>
 
-이 프로젝트는 앨런(뇌과학)연구소 소속 과학자 [제인 라이](https://www.linkedin.com/in/hsin-yu-jane-lai-b2547685/)의 주도와 마리아노 가비토 교수님(([앨런뇌과학연구소 프로필](https://alleninstitute.org/person/mariano-gabitto/), [워싱턴대 프로필](https://stat.uw.edu/people/mariano-gabitto-0)))의 지도 아래 수행되었습니다. 이 프로젝트의 핵심인 scVIP는 전사 프로파일과 표현형 마커를 통합하여 생성 모델과 세포 유형 인식 다중 인스턴스 학습을 통해 개인화된 개인 수준의 임베딩을 학습하는 생성적 프레임워크입니다. 저는 이 논문의 문서화 및 코드베이스 작업에 크게 기여하였으며, 제2저자로 이름이 등재되어 있습니다.
+이 프로젝트는 앨런(뇌과학)연구소 소속 과학자 [제인 라이](https://www.linkedin.com/in/hsin-yu-jane-lai-b2547685/)의 주도와 마리아노 가비토 교수님([앨런뇌과학연구소 프로필](https://alleninstitute.org/person/mariano-gabitto/), [워싱턴대 프로필](https://stat.uw.edu/people/mariano-gabitto-0))의 지도 아래 수행되었습니다. 이 프로젝트의 핵심인 scVIP는 전사 프로파일과 표현형 마커를 통합하여 생성 모델과 세포 유형 인식 다중 인스턴스 학습을 통해 개인화된 개인 수준의 임베딩을 학습하는 생성적 프레임워크입니다. 저는 이 논문의 문서화 및 코드베이스 작업에 크게 기여하였으며, 제2저자로 이름이 등재되어 있습니다.
 
 이 논문은 2026년 4월 28일자로 프리프린트로 공개되었습니다.
 

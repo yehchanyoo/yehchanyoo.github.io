@@ -21,7 +21,7 @@ This webpage goes over the research work I have done over my time as a student i
   <figcaption>Figure 1 from the Preprint Paper</figcaption>
 </figure>
 
-This project was done under the leadership of Allen Institute (for Brain Science) scientist [Jane Lai](https://www.linkedin.com/in/hsin-yu-jane-lai-b2547685/) and the guidance of Professor Mariano Gabitto ([Allen Institute profile](https://alleninstitute.org/person/mariano-gabitto/). [UW profile](https://stat.uw.edu/people/mariano-gabitto-0)). The project revolves around scVIP, a generative framework that integrates transcriptional profiles and phenotypic markers to learn personalized individual-level embeddings using generative models and cell-type–aware multi-instance learning. I have contributed significantly to the documentation and codebase work for this paper, and I am named as the second author.
+This project was done under the leadership of Allen Institute (for Brain Science) scientist [Jane Lai](https://www.linkedin.com/in/hsin-yu-jane-lai-b2547685/) and the guidance of Professor Mariano Gabitto ([Allen Institute profile](https://alleninstitute.org/person/mariano-gabitto/), [UW profile](https://stat.uw.edu/people/mariano-gabitto-0)). The project revolves around scVIP, a generative framework that integrates transcriptional profiles and phenotypic markers to learn personalized individual-level embeddings using generative models and cell-type–aware multi-instance learning. I have contributed significantly to the documentation and codebase work for this paper, and I am named as the second author.
 
 Note that the paper is publicly released as the preprint as of April 28, 2026.
 
