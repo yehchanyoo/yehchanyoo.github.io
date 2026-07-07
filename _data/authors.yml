@@ -1,45 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-include-cache
-minimal_mistakes_skin: "default"
-markdown: kramdown
-theme: null
-
-# Enable TOC by default for posts/pages
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: single
-      toc: true
-      toc_sticky: true
-  # English pages defaults
-  - scope:
-      path: "en"
-    values:
-      layout: single
-      author_profile: true
-      lang: "en"
-      author: "yehchanyoo-en"
-  # Korean pages defaults
-  - scope:
-      path: "ko"
-    values:
-      layout: single
-      author_profile: true
-      lang: "ko"
-      author: "yehchanyoo-ko"
-
-incremental: true
-title: Yeh Chan Yoo's Portfolio Site
-description: Yeh Chan Yoo's professional portfolio website
-
-author:
+yehchanyoo-en:
   name: "Yeh Chan Yoo"
   avatar: "https://github.com/user-attachments/assets/2ae163f0-f805-4324-a4d2-fd3b8456804f"
   location: "Seattle, WA"
@@ -57,7 +16,10 @@ author:
       icon: "fas fa-fw fa-file-alt"
       url: "/attachments/Yeh Chan Yoo's Most Recent Resume (April 14, 2026).pdf"
 
-footer:
+yehchanyoo-ko:
+  name: "류예찬"
+  avatar: "https://github.com/user-attachments/assets/2ae163f0-f805-4324-a4d2-fd3b8456804f"
+  location: "시애틀, 워싱턴주"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -65,12 +27,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yehchanyoo"
-    - label: "Grad School Profile"
+    - label: "대학원 프로필"
       icon: "fas fa-fw fa-university"
       url: "https://stat.uw.edu/people/yehchan-yoo"
-    - label: "Resume"
+    - label: "이력서"
       icon: "fas fa-fw fa-file-alt"
       url: "/attachments/Yeh Chan Yoo's Most Recent Resume (April 14, 2026).pdf"
-
-atom_feed:
-  hide: true

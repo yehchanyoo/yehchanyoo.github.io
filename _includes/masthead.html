@@ -12,11 +12,18 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
+        {% if page.lang == "ko" %}
+          {% assign homepage_url = "/ko/" | relative_url %}
+          {% assign homepage_title = "류예찬의 포트폴리오 사이트" %}
+        {% else %}
+          {% assign homepage_url = "/en/" | relative_url %}
+          {% assign homepage_title = site.masthead_title | default: site.title %}
+        {% endif %}
         {% unless logo_path == empty %}
-          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+          <a class="site-logo" href="{{ homepage_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ homepage_title }}"></a>
         {% endunless %}
-        <a class="site-title" href="{{ '/' | relative_url }}">
-          {{ site.masthead_title | default: site.title | escape_once | strip }}
+        <a class="site-title" href="{{ homepage_url }}">
+          {{ homepage_title | escape_once | strip }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
         </a>
         <ul class="visible-links">
