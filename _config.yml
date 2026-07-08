@@ -18,6 +18,50 @@ defaults:
       layout: single
       toc: true
       toc_sticky: true
+  # English pages defaults
+  - scope:
+      path: "en"
+    values:
+      layout: single
+      author_profile: true
+      lang: "en"
+      author: "yehchanyoo-en"
+      footer:
+        links:
+          - label: "LinkedIn"
+            icon: "fab fa-fw fa-linkedin"
+            url: "https://www.linkedin.com/in/yehchan-yoo/"
+          - label: "GitHub"
+            icon: "fab fa-fw fa-github"
+            url: "https://github.com/yehchanyoo"
+          - label: "Grad School Profile"
+            icon: "fas fa-fw fa-university"
+            url: "https://stat.uw.edu/people/yehchan-yoo"
+          - label: "Resume"
+            icon: "fas fa-fw fa-file-alt"
+            url: "/attachments/Yeh Chan Yoo's Most Recent Resume (April 14, 2026).pdf"
+  # Korean pages defaults
+  - scope:
+      path: "ko"
+    values:
+      layout: single
+      author_profile: true
+      lang: "ko"
+      author: "yehchanyoo-ko"
+      footer:
+        links:
+          - label: "LinkedIn"
+            icon: "fab fa-fw fa-linkedin"
+            url: "https://www.linkedin.com/in/yehchan-yoo/"
+          - label: "GitHub"
+            icon: "fab fa-fw fa-github"
+            url: "https://github.com/yehchanyoo"
+          - label: "대학원 프로필"
+            icon: "fas fa-fw fa-university"
+            url: "https://stat.uw.edu/people/yehchan-yoo"
+          - label: "이력서"
+            icon: "fas fa-fw fa-file-alt"
+            url: "/attachments/Yeh Chan Yoo's Most Recent Resume (April 14, 2026).pdf"
 
 incremental: true
 title: Yeh Chan Yoo's Portfolio Site
@@ -57,4 +101,4 @@ footer:
       url: "/attachments/Yeh Chan Yoo's Most Recent Resume (April 14, 2026).pdf"
 
 atom_feed:
-  hide: true 
+  hide: true

@@ -1,3 +1,21 @@
-main:
+# English navigation
+main-en:
   - title: "Home"
-    url: /
+    url: /en/
+  - title: "Research"
+    url: /en/research/
+  - title: "Projects"
+    url: /en/projects/
+  - title: "Hackathons"
+    url: /en/hackathons/
+
+# Korean navigation
+main-ko:
+  - title: "홈"
+    url: /ko/
+  - title: "연구"
+    url: /ko/research/
+  - title: "프로젝트"
+    url: /ko/projects/
+  - title: "해커톤"
+    url: /ko/hackathons/

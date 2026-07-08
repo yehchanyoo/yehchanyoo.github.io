@@ -1,0 +1,20 @@
+{% comment %}
+  Language switcher: renders EN | KO links.
+  Determines the counterpart URL by swapping /en/ <-> /ko/ in the current page URL.
+{% endcomment %}
+
+{% assign current_url = page.url %}
+
+{% if page.lang == "ko" %}
+  {% assign en_url = current_url | replace: "/ko/", "/en/" %}
+  {% assign ko_url = current_url %}
+{% else %}
+  {% assign en_url = current_url %}
+  {% assign ko_url = current_url | replace: "/en/", "/ko/" %}
+{% endif %}
+
+<span class="lang-switcher">
+  <a href="{{ en_url | relative_url }}" class="lang-link {% if page.lang != 'ko' %}lang-active{% endif %}" title="English">EN</a>
+  <span class="lang-sep">|</span>
+  <a href="{{ ko_url | relative_url }}" class="lang-link {% if page.lang == 'ko' %}lang-active{% endif %}" title="한국어">한국어</a>
+</span>
