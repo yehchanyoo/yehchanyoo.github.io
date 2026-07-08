@@ -18,4 +18,4 @@ _참고:_ 이 웹사이트는 태블릿이나 노트북 등 큰 화면에서 보
 
 상단 내비게이션 바를 통해 [연구](/ko/research/), [프로젝트](/ko/projects/) 및 [해커톤](/ko/hackathons/) 페이지를 살펴보실 수 있습니다.
 
-경력에 대해 더 자세히 알고 싶으시면 [이력서](/attachments/Yehchan_Yoo_Resume.pdf)와 [LinkedIn 프로필](https://www.linkedin.com/in/yehchan-yoo/)을 참고하면 됩니다.
+경력에 대해 더 자세히 알고 싶으시면 [이력서](/attachments/류예찬 이력서(2026년 7월 7일 버전).pdf)와 [LinkedIn 프로필](https://www.linkedin.com/in/yehchan-yoo/?locale=ko-KR)을 참고하면 됩니다.
