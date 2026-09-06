@@ -1,7 +1,7 @@
 yehchanyoo-en:
   name: "Yeh Chan Yoo"
   avatar: "https://github.com/user-attachments/assets/2ae163f0-f805-4324-a4d2-fd3b8456804f"
-  location: "Seattle, WA"
+  location: "Seoul, South Korea"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -9,7 +9,7 @@ yehchanyoo-en:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yehchanyoo"
-    - label: "Grad School Profile"
+    - label: "Grad School Alum Profile"
       icon: "fas fa-fw fa-university"
       url: "https://stat.uw.edu/people/yehchan-yoo"
     - label: "Resume"
@@ -19,7 +19,7 @@ yehchanyoo-en:
 yehchanyoo-ko:
   name: "류예찬"
   avatar: "https://github.com/user-attachments/assets/2ae163f0-f805-4324-a4d2-fd3b8456804f"
-  location: "미국 워싱턴주 시애틀"
+  location: "서울"
   links:
     - label: "링크드인"
       icon: "fab fa-fw fa-linkedin"
@@ -27,7 +27,7 @@ yehchanyoo-ko:
     - label: "깃허브"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yehchanyoo"
-    - label: "대학원 프로필(영문)"
+    - label: "대학원 동문 프로필(영문)"
       icon: "fas fa-fw fa-university"
       url: "https://stat.uw.edu/people/yehchan-yoo"
     - label: "이력서"

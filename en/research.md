@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-This webpage goes over the research work I have done over my time as a student in University of Washington and UC Berkeley. (If you want to know more about my career, check out [my LinkedIn profile](https://www.linkedin.com/in/yehchanyoo/) or [my resume](/attachments/2026/Resume.pdf)!)
+This webpage goes over the research work I have done over my time as a student in University of Washington and UC Berkeley. (If you want to know more about my career, check out [my LinkedIn profile](https://www.linkedin.com/in/yehchanyoo/) or [my resume](</attachments/Yeh Chan Yoo's Most Recent Resume (April 14, 2026).pdf>)!)
 
 # Graduate School Research
 
